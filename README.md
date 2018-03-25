@@ -17,6 +17,7 @@ OCR Ground Truth Resources for historical documents
 | [IMPACT-NUK](https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/impact-dataset-browser/?query=&search-filter-institution=NUK&search-filter-language=&search-filter-script=&search-filter-year=) <sup>1</sup> | IMPACT ground truth: National Library of Slovenia | [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | 209 | [PAGE](https://github.com/PRImA-Research-Lab/PAGE-XML) |
 | [IMPACT-PSNC](http://dl.psnc.pl/activities/projekty/impact/results/) | IMPACT Polish ground truth from four digital libraries | [CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/) | 478 | [PAGE](https://github.com/PRImA-Research-Lab/PAGE-XML) |
 | [OCR-D](http://ocr-d.de/daten) | German texts ground truth reference data | [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 180 | [PAGE](https://github.com/PRImA-Research-Lab/PAGE-XML) |
-| [PRImA-ENP](http://www.primaresearch.org/datasets/ENP) | Newspapers from Europe's major libraries | [PDM 1.0](https://creativecommons.org/publicdomain/mark/1.0/) | 528 | [PAGE](https://github.com/PRImA-Research-Lab/PAGE-XML) |
+| [PRImA-ENP](http://www.primaresearch.org/datasets/ENP) <sup>2</sup> | Newspapers from Europe's major libraries | [PDM 1.0](https://creativecommons.org/publicdomain/mark/1.0/) | 528 | [PAGE](https://github.com/PRImA-Research-Lab/PAGE-XML) |
 
-<sup>1</sup> Requires (free) registration at [digitisation.eu](https://www.digitisation.eu/wp-login.php?action=register).
+<sup>1</sup> Requires (free) registration at [digitisation.eu](https://www.digitisation.eu/wp-login.php?action=register).    
+<sup>2</sup> Requires (free) registration at [primaresearch.org](http://www.primaresearch.org/register).
