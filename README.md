@@ -3,9 +3,9 @@ OCR Ground Truth Resources for historical documents
 
 | Name | Description | License | # Pages | Format |
 -------|-------------|---------|---------|--------|
-| [archiscribe](https://github.com/jbaiter/archiscribe-corpus) | Line transcripts of German prints from the InternetArchive | [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | 3.797 | TXT |
+| [archiscribe](https://github.com/jbaiter/archiscribe-corpus) | **Line-level** text of German prints from the InternetArchive | [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | 3.797 | TXT |
 | [DIVA-HisDB](https://diuf.unifr.ch/main/hisdoc/diva-hisdb) |DIVA-HisDB collection of three medieval manuscripts | [CC-BY-NC 3.0](http://creativecommons.org/licenses/by-nc/3.0/) | 150 | [PAGE](https://github.com/PRImA-Research-Lab/PAGE-XML) |
-| [eMOP-TCP](https://github.com/Early-Modern-OCR/TCP-ECCO-texts) | Document level full-text of TCP transcribed ECCO docs | ? | 2.188 | TXT |
+| [eMOP-TCP](https://github.com/Early-Modern-OCR/TCP-ECCO-texts) | **Document-level** text of TCP transcribed ECCO | ? | 2.188 | TXT |
 | [GERMANA](https://www.prhlt.upv.es/wp/resource/the-germana-corpus) | “Noticias y documentos relativos a Doña Germana” (1891) | non-commercial | 764 | ? |
 | [IMPACT](https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/) | IMPACT image and ground truth resources | see below | | [PAGE](https://github.com/PRImA-Research-Lab/PAGE-XML) |
 | [IMPACT-BL](https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/impact-dataset-browser/?query=&search-filter-institution=BL&search-filter-language=&search-filter-script=&search-filter-year=) <sup>1</sup> | IMPACT ground truth: British Library | [PDM 1.0](https://creativecommons.org/publicdomain/mark/1.0/) | 294 | [PAGE](https://github.com/PRImA-Research-Lab/PAGE-XML) |
