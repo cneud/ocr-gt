@@ -5,6 +5,7 @@ OCR Ground Truth Resources for historical documents
 -------|-------------|---------|---------|--------|
 | [archiscribe](https://github.com/jbaiter/archiscribe-corpus) | 3,797 transcripts of German prints in the InternetArchive | [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | N/A | TXT |
 | [DIVA-HisDB](https://diuf.unifr.ch/main/hisdoc/diva-hisdb) |DIVA-HisDB collection of three medieval manuscripts | [CC-BY-NC 3.0](http://creativecommons.org/licenses/by-nc/3.0/) | 150 | [PAGE](https://github.com/PRImA-Research-Lab/PAGE-XML) |
+| [EEBO-TCP](https://github.com/Anterotesis/historical-texts/tree/master/eebo-tcp) | 25,363 EEBO documents transcribed by TCP | Public Domain | N/A | XML |
 | [ECCO-TCP](https://github.com/Anterotesis/historical-texts/tree/master/ecco-tcp) | 2,188 ECCO documents transcribed by TCP | Public Domain | N/A | XML |
 | [eMOP-TCP](https://github.com/Early-Modern-OCR/TCP-ECCO-texts) | 2,188 ECCO-TCP texts, corrected by eMOP | Public Domain | N/A | TXT |
 | [GERMANA](https://www.prhlt.upv.es/wp/resource/the-germana-corpus) | “documentos relativos a Doña Germana de Foix” (1891) | non-commercial | 764 | ? |
