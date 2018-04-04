@@ -1,7 +1,7 @@
 # ocr-gt
 OCR Ground Truth Resources for historical documents
 
-| Name | Description | License | # Pages | Format |
+| Name | Description | License | Pages | Format |
 -------|-------------|---------|---------|--------|
 | [archiscribe](https://github.com/jbaiter/archiscribe-corpus) | 3,797 transcripts of InternetArchive German prints | [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | N/A | TXT |
 | [DIVA-HisDB](https://diuf.unifr.ch/main/hisdoc/diva-hisdb) |DIVA-HisDB collection of three medieval manuscripts | [CC-BY-NC 3.0](http://creativecommons.org/licenses/by-nc/3.0/) | 150 | [PAGE](https://github.com/PRImA-Research-Lab/PAGE-XML) |
@@ -9,7 +9,7 @@ OCR Ground Truth Resources for historical documents
 | [ECCO-TCP](https://github.com/Anterotesis/historical-texts/tree/master/ecco-tcp) | 2,188 ECCO documents transcribed by TCP | Public Domain | N/A | XML |
 | [eMOP-TCP](https://github.com/Early-Modern-OCR/TCP-ECCO-texts) | 2,188 ECCO-TCP texts, corrected by eMOP | Public Domain | N/A | TXT |
 | [EarlyPrintedBooks](https://github.com/Anterotesis/historical-texts/tree/master/ecco-tcp) | ~8,800 selected lines of several early printed books | [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | N/A | TXT |
-| [GERMANA](https://www.prhlt.upv.es/wp/resource/the-germana-corpus) | “documentos relativos a Doña Germana de Foix” (1891) | non-commercial | 764 | ? |
+| [GERMANA](https://www.prhlt.upv.es/wp/resource/the-germana-corpus) | “Doña Germana de Foix” (1891) | non-commercial | 764 | ? |
 | [IMPACT](https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/) | IMPACT image and ground truth resources | see below | | [PAGE](https://github.com/PRImA-Research-Lab/PAGE-XML) |
 | [IMPACT-BL](https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/impact-dataset-browser/?query=&search-filter-institution=BL&search-filter-language=&search-filter-script=&search-filter-year=) <sup>1</sup> | IMPACT ground truth: British Library | [PDM 1.0](https://creativecommons.org/publicdomain/mark/1.0/) | 294 | [PAGE](https://github.com/PRImA-Research-Lab/PAGE-XML) |
 | [IMPACT-BNE](https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/impact-dataset-browser/?query=&search-filter-institution=BNE&search-filter-language=&search-filter-script=&search-filter-year=) <sup>1</sup> | IMPACT ground truth: National Library of Spain | [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | 215 | [PAGE](https://github.com/PRImA-Research-Lab/PAGE-XML) |
@@ -23,7 +23,7 @@ OCR Ground Truth Resources for historical documents
 | [IMPACT-PSNC](http://dl.psnc.pl/activities/projekty/impact/results/) | IMPACT Polish ground truth from four digital libraries | [CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/) | 478 | [PAGE](https://github.com/PRImA-Research-Lab/PAGE-XML) |
 | [MJSynth](http://www.robots.ox.ac.uk/~vgg/data/text/) | 9m synthetic images covering 90k English words | ? | N/A | ? |
 | [OCR-D](http://ocr-d.de/daten) | German texts ground truth reference data | [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 180 | [PAGE](https://github.com/PRImA-Research-Lab/PAGE-XML) |
-| [RODRIGO](https://www.prhlt.upv.es/wp/resource/the-rodrigo-corpus) | “Historia de España del arçobispo Don Rodrigo” (1545) | non-commercial | 853 | ? |
+| [RODRIGO](https://www.prhlt.upv.es/wp/resource/the-rodrigo-corpus) | “Don Rodrigo” (1545) | non-commercial | 853 | ? |
 | [PRImA-ENP](http://www.primaresearch.org/datasets/ENP) <sup>2</sup> | Historic newspapers from Europe's major libraries | [PDM 1.0](https://creativecommons.org/publicdomain/mark/1.0/) | 528 | [PAGE](https://github.com/PRImA-Research-Lab/PAGE-XML) |
 
 <sup>1</sup> Requires (free) registration at [digitisation.eu](https://www.digitisation.eu/wp-login.php?action=register).    
