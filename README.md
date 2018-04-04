@@ -6,7 +6,7 @@ OCR Ground Truth Resources for historical documents
 | [archiscribe](https://github.com/jbaiter/archiscribe-corpus) | ~4,000 lines from 19th Century German prints | [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | N/A | TXT |
 | [CIS OCR](https://github.com/cisocrgroup/Resources/tree/master/ocrtestset) | [PoCoTo](https://github.com/cisocrgroup/PoCoTo) example documents with ground truth | ? | N/A | TXT |
 | [DIVA-HisDB](https://diuf.unifr.ch/main/hisdoc/diva-hisdb) |DIVA-HisDB collection of three medieval manuscripts | [CC-BY-NC 3.0](http://creativecommons.org/licenses/by-nc/3.0/) | 150 | [PAGE](https://github.com/PRImA-Research-Lab/PAGE-XML) |
-| [EarlyPrintedBooks](https://github.com/Anterotesis/historical-texts/tree/master/ecco-tcp) | ~8,800 lines from several early printed books | [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | N/A | TXT |
+| [EarlyPrintedBooks](https://github.com/chreul/OCR_Testdata_EarlyPrintedBooks) | ~8,800 lines from several early printed books | [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | N/A | TXT |
 | [EEBO-TCP](https://github.com/Anterotesis/historical-texts/tree/master/eebo-tcp) | 25,363 EEBO documents transcribed by [TCP](http://www.textcreationpartnership.org/tcp-eebo/) | Public Domain | N/A | XML |
 | [ECCO-TCP](https://github.com/Anterotesis/historical-texts/tree/master/ecco-tcp) | 2,188 ECCO documents transcribed by [TCP](http://www.textcreationpartnership.org/tcp-ecco/) | Public Domain | N/A | XML |
 | [eMOP-TCP](https://github.com/Early-Modern-OCR/TCP-ECCO-texts) | 2,188 ECCO-TCP texts, cleaned up by [eMOP](http://emop.tamu.edu/) | Public Domain | N/A | TXT |
