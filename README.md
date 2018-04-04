@@ -6,10 +6,11 @@ OCR Ground Truth Resources for historical documents
 | [archiscribe](https://github.com/jbaiter/archiscribe-corpus) | ~4,000 line transcripts of InternetArchive German prints | [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | N/A | TXT |
 | [CIS OCR](https://github.com/cisocrgroup/Resources/tree/master/ocrtestset) | PoCoTo example documents with ground truth | ? | N/A | TXT |
 | [DIVA-HisDB](https://diuf.unifr.ch/main/hisdoc/diva-hisdb) |DIVA-HisDB collection of three medieval manuscripts | [CC-BY-NC 3.0](http://creativecommons.org/licenses/by-nc/3.0/) | 150 | [PAGE](https://github.com/PRImA-Research-Lab/PAGE-XML) |
+| [EarlyPrintedBooks](https://github.com/Anterotesis/historical-texts/tree/master/ecco-tcp) | ~8,800 selected lines of several early printed books | [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | N/A | TXT |
 | [EEBO-TCP](https://github.com/Anterotesis/historical-texts/tree/master/eebo-tcp) | 25,363 EEBO documents transcribed by TCP | Public Domain | N/A | XML |
 | [ECCO-TCP](https://github.com/Anterotesis/historical-texts/tree/master/ecco-tcp) | 2,188 ECCO documents transcribed by TCP | Public Domain | N/A | XML |
 | [eMOP-TCP](https://github.com/Early-Modern-OCR/TCP-ECCO-texts) | 2,188 ECCO-TCP texts, corrected by eMOP | Public Domain | N/A | TXT |
-| [EarlyPrintedBooks](https://github.com/Anterotesis/historical-texts/tree/master/ecco-tcp) | ~8,800 selected lines of several early printed books | [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | N/A | TXT |
+| [Evans-TCP](https://github.com/Anterotesis/historical-texts/tree/master/evans-tcp) | 4,977 Evans documents transcribed by TCP | Public Domain | N/A | XML |
 | [GERMANA](https://www.prhlt.upv.es/wp/resource/the-germana-corpus) <sup>1</sup> | “Doña Germana de Foix” (1891) | non-commercial | 764 | ? |
 | [IMPACT](https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/) | IMPACT image and ground truth resources | see below | | [PAGE](https://github.com/PRImA-Research-Lab/PAGE-XML) |
 | [IMPACT-BL](https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/impact-dataset-browser/?query=&search-filter-institution=BL&search-filter-language=&search-filter-script=&search-filter-year=) <sup>2</sup> | IMPACT ground truth: British Library | [PDM 1.0](https://creativecommons.org/publicdomain/mark/1.0/) | 294 | [PAGE](https://github.com/PRImA-Research-Lab/PAGE-XML) |
