@@ -12,7 +12,7 @@ OCR Ground Truth Resources for historical documents
 | [ECCO-TCP](https://github.com/Anterotesis/historical-texts/tree/master/ecco-tcp) | 2,188 ECCO documents transcribed by [TCP](http://www.textcreationpartnership.org/tcp-ecco/) | Public Domain | N/A | XML |
 | [eMOP-TCP](https://github.com/Early-Modern-OCR/TCP-ECCO-texts) | 2,188 ECCO-TCP texts, cleaned up by [eMOP](http://emop.tamu.edu/) | Public Domain | N/A | TXT |
 | [Evans-TCP](https://github.com/Anterotesis/historical-texts/tree/master/evans-tcp) | 4,977 Evans documents transcribed by [TCP](http://www.textcreationpartnership.org/tcp-evans/) | Public Domain | N/A | XML |
-| [FDHN](https://digi.kansalliskirjasto.fi/opendata/submit?set_language=en) | [Finnish Digitised Historical Newspapers](http://doi.org/10.1045/july2016-paakkonen) | [Terms](https://digi.kansalliskirjasto.fi/terms) <sup>5</sup> | N/A | XML |
+| [FDHN](https://digi.kansalliskirjasto.fi/opendata/submit?set_language=en) <sup>5</sup> | [Finnish Digitised Historical Newspapers](http://doi.org/10.1045/july2016-paakkonen) | [Terms](https://digi.kansalliskirjasto.fi/terms) | N/A | XML |
 | [GERMANA](https://www.prhlt.upv.es/wp/resource/the-germana-corpus) <sup>1</sup> | “Doña Germana de Foix” (1891) | non-commercial | 764 | ? |
 | [IMPACT](https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/) | IMPACT image and ground truth resources | see below | | [PAGE](https://github.com/PRImA-Research-Lab/PAGE-XML) |
 | [IMPACT-BL](https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/impact-dataset-browser/?query=&search-filter-institution=BL&search-filter-language=&search-filter-script=&search-filter-year=) <sup>2</sup> | IMPACT: British Library | [PDM 1.0](https://creativecommons.org/publicdomain/mark/1.0/) | 294 | [PAGE](https://github.com/PRImA-Research-Lab/PAGE-XML) |
@@ -33,4 +33,5 @@ OCR Ground Truth Resources for historical documents
 <sup>1</sup> Requires (free) registration at [prhlt.upv.es](https://www.prhlt.upv.es/wp/resource/the-germana-corpus).    
 <sup>2</sup> Requires (free) registration at [digitisation.eu](https://www.digitisation.eu/wp-login.php?action=register).    
 <sup>3</sup> Requires (free) registration at [primaresearch.org](http://www.primaresearch.org/register).       
-<sup>4</sup> Requires (free) registration at [prhlt.upv.es](https://www.prhlt.upv.es/wp/resource/the-rodrigo-corpus).
+<sup>4</sup> Requires (free) registration at [prhlt.upv.es](https://www.prhlt.upv.es/wp/resource/the-rodrigo-corpus).    
+<sup>5</sup> Requires (free) registration at [digi.kansalliskirjasto.fi](https://digi.kansalliskirjasto.fi/opendata/submit?set_language=en).
