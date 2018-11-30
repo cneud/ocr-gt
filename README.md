@@ -1,5 +1,5 @@
 # ocr-gt
-OCR Ground Truth Resources for historical documents
+OCR Ground Truth Resources
 
 | Name | Description | License | Pages | Format |
 -------|-------------|---------|---------|--------|
