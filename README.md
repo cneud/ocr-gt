@@ -32,6 +32,7 @@ OCR Ground Truth Resources for historical documents
 | [IMPACT-PSNC](https://github.com/impactcentre/groundtruth-pol) <sup>3a</sup> | IMPACT: Polish ground truth from four digital libraries | [CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/) | 478 | [PAGE](https://github.com/PRImA-Research-Lab/PAGE-XML) |
 | [MJSynth](http://www.robots.ox.ac.uk/~vgg/data/text/) | 9m synthetic images covering 90k English words | ? | N/A | ? |
 | [OCR-D](http://ocr-d.de/daten) | German ground truth reference data from [OCR-D](http://ocr-d.de/) | [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 180 | [PAGE](https://github.com/PRImA-Research-Lab/PAGE-XML) |
+| [OCR_GS_Data](https://github.com/OpenITI/OCR_GS_Data) | Double-checked Arabic Gold Standard from [OpenITI](https://github.com/OpenITI) | ? | ? | TXT |
 | [PRImA-ENP](http://www.primaresearch.org/datasets/ENP) <sup>4</sup> | Historic newspapers from [Europeana Newspapers](http://www.europeana-newspapers.eu/) | [PDM 1.0](https://creativecommons.org/publicdomain/mark/1.0/) | 528 | [PAGE](https://github.com/PRImA-Research-Lab/PAGE-XML) |
 | [RODRIGO](https://www.prhlt.upv.es/wp/resource/the-rodrigo-corpus) <sup>5</sup> | “Don Rodrigo” (1545) | non-commercial | 853 | ? |
 
