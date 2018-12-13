@@ -1,0 +1,40 @@
+{
+	"name": "ocr-gt",
+	"description": "OCR Ground Truth Resources"
+	{
+		"id": "00000001",
+		"name": "archiscribe-corpus",
+		"url": "https://github.com/jbaiter/archiscribe-corpus",
+		"description": "19th Century German prints",
+		"language": "German",
+		"license": "CC-BY 4.0",
+		"format": "PAGE-XML",
+		"volume": [{
+			"count": ">4,200",
+			"metric": "lines"
+		}]
+	}
+	{
+		"id": "00000002",
+		"name": "CIS OCR Test Set",
+		"url": "https://github.com/cisocrgroup/Resources/tree/master/ocrtestset",
+		"description": "PoCoTo example documents with ground truth",
+		"language": "German, Latin, Greek",
+		"license": "unknown",
+		"format": "Text",
+		"volume": [{
+			"count": "6",
+			"metric": "documents"
+		}]
+	}
+	{
+		"id": "00000003",
+		"name": "CLTK corpora",
+		"url": "https://github.com/cltk",
+		"description": "Corpora from Classical Language Toolkit",
+		"language": "Greek, Latin",
+		"license": "PDM 1.0",
+		"format": "Text",
+		"volume": "unknown"
+	}
+}
