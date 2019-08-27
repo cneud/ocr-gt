@@ -32,7 +32,7 @@ OCR Ground Truth Resources
 | [IMPACT-PSNC](https://github.com/impactcentre/groundtruth-pol) <sup>3a</sup> | IMPACT: Polish ground truth from four digital libraries | [CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/) | 478 | [PAGE](https://github.com/PRImA-Research-Lab/PAGE-XML) |
 | [MJSynth](http://www.robots.ox.ac.uk/~vgg/data/text/) | 9m synthetic images covering 90k English words | ? | N/A | ? |
 | [OCR19thSAC](https://files.ifi.uzh.ch/cl/OCR19thSAC/) | [Text+Berg digital](http://textberg.ch/site/en/welcome/) Swiss Alpine Club yearbooks | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) | 19,000 | TXT |
-| [OCR-D](http://ocr-d.de/daten) | German ground truth reference data from [OCR-D](http://ocr-d.de/) | [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 180 | [PAGE](https://github.com/PRImA-Research-Lab/PAGE-XML) |
+| [OCR-D](https://ocr-d-repo.scc.kit.edu/api/v1/metastore/bagit) | German ground truth reference data from [OCR-D](http://ocr-d.de/) | [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 180 | [PAGE](https://github.com/PRImA-Research-Lab/PAGE-XML) |
 | [OCR_GS_Data](https://github.com/OpenITI/OCR_GS_Data) | Double-checked Arabic Gold Standard from [OpenITI](https://github.com/OpenITI) | ? | ? | TXT |
 | [old-books](https://github.com/PedroBarcha/old-books-dataset) | Old books GT from Project Gutenberg ebooks | [GPL 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) | 322 | TXT |
 | [PRImA-ENP](http://www.primaresearch.org/datasets/ENP) <sup>4</sup> | Historic newspapers from [Europeana Newspapers](http://www.europeana-newspapers.eu/) | [PDM 1.0](https://creativecommons.org/publicdomain/mark/1.0/) | 528 | [PAGE](https://github.com/PRImA-Research-Lab/PAGE-XML) |
