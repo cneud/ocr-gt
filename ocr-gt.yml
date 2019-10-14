@@ -76,7 +76,7 @@ entries:
         url: 'https://github.com/Anterotesis/historical-texts/tree/master/eebo-tcp'
         description: 'Eighteenth Century Collections Online (ECCO) documents transcribed by TCP'
         language: English
-        time: 1701-1800
+        time: 1701--1800
         license:
             - {name: 'CC0 1.0', url: 'https://creativecommons.org/publicdomain/zero/1.0/'}
         format: XML
@@ -88,7 +88,7 @@ entries:
         url: 'https://github.com/Early-Modern-OCR/TCP-ECCO-texts'
         description: 'ECCO texts, cleaned up by eMOP'
         language: English
-        time: 1701-1800
+        time: 1701--1800
         license:
             - {name: 'CC0 1.0', url: 'https://creativecommons.org/publicdomain/zero/1.0/'}
         format: TXT
