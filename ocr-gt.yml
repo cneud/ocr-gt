@@ -83,7 +83,7 @@ entries:
         volume:
             - {count: '2188', metric: documents}
     -
-        id: 0
+        id: '00000008'
         name: eMOP-TCP
         url: 'https://github.com/Early-Modern-OCR/TCP-ECCO-texts'
         description: 'ECCO texts, cleaned up by eMOP'
@@ -95,7 +95,7 @@ entries:
         volume:
             - {count: '2188', metric: documents}
     -
-        id: 0
+        id: '00000009'
         name: Evans-TCP
         url: 'https://github.com/Anterotesis/historical-texts/tree/master/evans-tcp'
         description: 'Evans Early American Imprints documents transcribed by TCP'
@@ -327,7 +327,7 @@ entries:
         volume:
             - {count: '187', metric: pages}
     -
-        id: 2
+        id: '00000028'
         name: IMPACT-NLB
         url: 'https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/impact-dataset-browser/?query=&search-filter-institution=NLB'
         description: 'IMPACT: National Library of Bulgaria'
@@ -339,7 +339,7 @@ entries:
         volume:
             - {count: '19', metric: pages}
     -
-        id: 2
+        id: '00000029'
         name: IMPACT-NUK
         url: 'https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/impact-dataset-browser/?query=&search-filter-institution=NUK'
         description: 'IMPACT: National Library of Slovenia'
