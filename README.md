@@ -1,5 +1,5 @@
 # ocr-gt
-OCR Ground Truth Resources
+OCR Ground Truth Resources *--> see [JSON](https://github.com/cneud/ocr-gt/blob/master/ocr-gt.json) for up-to-date version <--*
 
 | Name | Description | License | Pages | Format |
 -------|-------------|---------|---------|--------|
