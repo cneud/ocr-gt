@@ -372,3 +372,16 @@ entries:
         format: PAGE-XML
         volume:
             - {count: '478', metric: pages}
+    -
+        id: '00000032'
+        name: HORAE
+        url: 'https://github.com/oriflamms/HORAE'
+        description: 'HORAE: an annotated dataset of books of hours'
+        language: Latin
+        time: unknown
+        license:
+            - {name: 'CC-BY 3.0', url: 'https://creativecommons.org/licenses/by-nc-sa/4.0/'}
+        format: PAGE-XML
+        volume:
+            - {count: '557', metric: pages}
+            
