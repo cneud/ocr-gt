@@ -15,7 +15,7 @@ entries:
             - {count: '4255', metric: lines}
     -
         id: '00000002'
-        name: 'CIS OCR Test Set'
+        name: 'CIS-OCR_Test_Set'
         url: 'https://github.com/cisocrgroup/Resources/tree/master/ocrtestset'
         description: 'PoCoTo example documents with ground truth'
         language: 'German, Latin, Greek'
@@ -26,7 +26,7 @@ entries:
             - {count: '6', metric: documents}
     -
         id: '00000003'
-        name: 'CLTK corpora'
+        name: 'CLTK_corpora'
         url: 'https://github.com/cltk'
         description: 'Corpora from Classical Language Toolkit'
         language: 'Greek, Latin'
