@@ -291,7 +291,7 @@
 		"id": "00000020",
 		"name": "MJSynth",
 		"url": "http://www.robots.ox.ac.uk/~vgg/data/text/",
-		"description": "9m synthetic images covering 90k words,
+		"description": "9m synthetic images covering 90k words",
 		"language": "English",
 		"license": "unknown",
 		"format": "Text",
