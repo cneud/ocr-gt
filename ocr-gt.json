@@ -201,7 +201,7 @@
 		"id": "00000014",
 		"name": "GERMANA",
 		"url": "https://www.prhlt.upv.es/wp/resource/the-rodrigo-corpus",
-		"description": "The RODRIGO corpus “Don Rodrigo” (1545),
+		"description": "The RODRIGO corpus “Don Rodrigo” (1545)",
 		"language": "Spanish",
 		"license": [{
 			"name": "Terms",
@@ -217,7 +217,7 @@
 		"id": "00000015",
 		"name": "ENP",
 		"url": "http://www.primaresearch.org/datasets/ENP",
-		"description": "Historic newspapers from Europeana Newspapers,
+		"description": "Historic newspapers from Europeana Newspapers",
 		"language": "Dutch, English, Estonian, Finnish, French, German, Latvian, Polish, Russian, Serbian, Swedish, Ukranian, Yiddish",
 		"license": [{
 			"name": "Terms",
@@ -233,7 +233,7 @@
 		"id": "00000016",
 		"name": "old-books",
 		"url": "https://github.com/PedroBarcha/old-books-dataset",
-		"description": "Old books GT from Project Gutenberg ebooks,
+		"description": "Old books GT from Project Gutenberg ebooks",
 		"language": "English",
 		"license": [{
 			"name": "GPL 3.0",
@@ -249,7 +249,7 @@
 		"id": "00000017",
 		"name": "OCR_GS_Data",
 		"url": "https://github.com/OpenITI/OCR_GS_Data",
-		"description": "Double-checked Arabic Gold Standard from OpenITI,
+		"description": "Double-checked Arabic Gold Standard from OpenITI",
 		"language": "Arabic, Persian, Turkish",
 		"license": "unknown",
 		"format": "Text",
@@ -259,7 +259,7 @@
 		"id": "00000018",
 		"name": "OCR-D",
 		"url": "https://ocr-d-repo.scc.kit.edu/api/v1/metastore/bagit",
-		"description": "Ground truth data from OCR-D,
+		"description": "Ground truth data from OCR-D",
 		"language": "German",
 		"license": [{
 			"name": "CC-BY-SA 4.0",
@@ -275,7 +275,7 @@
 		"id": "00000019",
 		"name": "OCR19thSAC",
 		"url": "https://files.ifi.uzh.ch/cl/OCR19thSAC/",
-		"description": "Text+Berg digital Swiss Alpine Club yearbooks,
+		"description": "Text+Berg digital Swiss Alpine Club yearbooks",
 		"language": "German, French",
 		"license": [{
 			"name": "CC-BY 4.0",
@@ -304,7 +304,7 @@
 		"id": "00000021",
 		"name": "CDIP",
 		"url": "https://ir.nist.gov/cdip/README.txt",
-		"description": "IIT Complex Document Information Processing Test Collection,
+		"description": "IIT Complex Document Information Processing Test Collection",
 		"language": "English",
 		"license": "unknown",
 		"format": "Text",
@@ -317,7 +317,7 @@
 		"id": "00000022",
 		"name": "IMPACT-BHL",
 		"url": "https://github.com/impactcentre/groundtruth-bhl",
-		"description": "IMPACT: Biodiversity Heritage Library,
+		"description": "IMPACT: Biodiversity Heritage Library",
 		"language": "English, French, German",
 		"license": [{
 			"name": "CC-BY 3.0",
@@ -333,7 +333,7 @@
 		"id": "00000022",
 		"name": "IMPACT-BL",
 		"url": "https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/impact-dataset-browser/?query=&search-filter-institution=BL",
-		"description": "IMPACT: The British Library,
+		"description": "IMPACT: The British Library",
 		"language": "English",
 		"license": [{
 			"name": "PDM 1.0",
@@ -349,7 +349,7 @@
 		"id": "00000023",
 		"name": "IMPACT-BNE",
 		"url": "https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/impact-dataset-browser/?query=&search-filter-institution=BNE",
-		"description": "IMPACT: National Library of Spain,
+		"description": "IMPACT: National Library of Spain",
 		"language": "Spanish",
 		"license": [{
 			"name": "CC-BY-NC-SA 4.0",
@@ -365,7 +365,7 @@
 		"id": "00000024",
 		"name": "IMPACT-BNF",
 		"url": "https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/impact-dataset-browser/?query=&search-filter-institution=BNF",
-		"description": "IMPACT: National Library of France,
+		"description": "IMPACT: National Library of France",
 		"language": "French",
 		"license": [{
 			"name": "CC-BY-NC-SA 4.0",
@@ -381,7 +381,7 @@
 		"id": "00000025",
 		"name": "IMPACT-BSB",
 		"url": "https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/impact-dataset-browser/?query=&search-filter-institution=BSB",
-		"description": "IMPACT: Bavarian State Library,
+		"description": "IMPACT: Bavarian State Library",
 		"language": "German",
 		"license": "unknown",
 		"format": "PAGE-XML",
@@ -391,7 +391,7 @@
 		"id": "00000026",
 		"name": "IMPACT-KB",
 		"url": "http://lab.kb.nl/dataset/ground-truth-impact-project#access",
-		"description": "IMPACT: National Library of the Netherlands,
+		"description": "IMPACT: National Library of the Netherlands",
 		"language": "Dutch",
 		"license": [{
 			"name": "CC-BY 4.0",
@@ -407,7 +407,7 @@
 		"id": "00000027",
 		"name": "IMPACT-NKC",
 		"url": "https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/impact-dataset-browser/?query=&search-filter-institution=NKC",
-		"description": "IMPACT: Czech National Library,
+		"description": "IMPACT: Czech National Library",
 		"language": "Czech",
 		"license": [{
 			"name": "CC-BY-NC-SA 4.0",
@@ -423,7 +423,7 @@
 		"id": "00000028",
 		"name": "IMPACT-NLB",
 		"url": "https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/impact-dataset-browser/?query=&search-filter-institution=NLB",
-		"description": "IMPACT: National Library of Bulgaria,
+		"description": "IMPACT: National Library of Bulgaria",
 		"language": "Bulgarian",
 		"license": [{
 			"name": "CC-BY-NC-ND 4.0",
@@ -439,7 +439,7 @@
 		"id": "00000029",
 		"name": "IMPACT-NUK",
 		"url": "https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/impact-dataset-browser/?query=&search-filter-institution=NUK",
-		"description": "IMPACT: National Library of Slovenia,
+		"description": "IMPACT: National Library of Slovenia",
 		"language": "Slovenian",
 		"license": [{
 			"name": "CC-BY-NC-SA 4.0",
@@ -455,7 +455,7 @@
 		"id": "00000030",
 		"name": "IMPACT-ONB",
 		"url": "https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/impact-dataset-browser/?query=&search-filter-institution=ONB",
-		"description": "IMPACT: Austrian National Library,
+		"description": "IMPACT: Austrian National Library",
 		"language": "German",
 		"license": "unknown",
 		"format": "PAGE-XML",
@@ -465,7 +465,7 @@
 		"id": "00000031",
 		"name": "IMPACT-PSNC",
 		"url": "http://dl.psnc.pl/activities/projekty/impact/results/",
-		"description": "IMPACT: Polish ground truth from four digital libraries,
+		"description": "IMPACT: Polish ground truth from four digital libraries",
 		"language": "Polish",
 		"license": [{
 			"name": "CC-BY 3.0",
