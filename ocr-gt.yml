@@ -408,3 +408,15 @@ entries:
         format: Text
         volume:
             - {count: '8770', metric: lines}
+    -
+        id: '00000035'
+        name: READ_Bozen
+        url: 'https://zenodo.org/record/218236'
+        description: 'Handwritten Early Modern German Ratsprotokolle'
+        language: German
+        time: 1470--1805
+        license:
+            - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
+        format: PAGE-XML
+        volume:
+            - {count: '400', metric: pages}
