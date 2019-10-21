@@ -154,16 +154,16 @@ entries:
         volume: unknown
     -
         id: '00000014'
-        name: GERMANA
-        url: 'https://www.prhlt.upv.es/wp/resource/the-rodrigo-corpus'
+        name: RODRIGO
+        url: 'https://zenodo.org/record/1490009'
         description: 'The RODRIGO corpus “Don Rodrigo” (1545)'
         language: Spanish
         time: 1545
         license:
-            - {name: Terms, url: 'https://www.prhlt.upv.es/wp/resource/the-rodrigo-corpus'}
+            - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
         format: database
         volume:
-            - {count: '853', metric: pages}
+            - {count: '15010', metric: lines}
     -
         id: '00000015'
         name: ENP
