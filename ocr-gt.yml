@@ -384,4 +384,15 @@ entries:
         format: PAGE-XML
         volume:
             - {count: '557', metric: pages}
-            
+         -
+        id: '00000033'
+        name: ONB_NewsEye
+        url: 'https://zenodo.org/record/3387369'
+        description: 'READ OCR training dataset from Austrian Newspapers'
+        language: German
+        time: 1864--1911
+        license:
+            - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
+        format: PAGE-XML
+        volume:
+            - {count: '161', metric: pages}       
