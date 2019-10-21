@@ -396,3 +396,15 @@ entries:
         format: PAGE-XML
         volume:
             - {count: '161', metric: pages}       
+    -
+        id: '00000034'
+        name: READ_Konzil
+        url: 'https://zenodo.org/record/215383'
+        description: '8770 trainscribed lines of 18th century handwritten German'
+        language: German
+        time: C18th
+        license:
+            - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
+        format: Text
+        volume:
+            - {count: '8770', metric: lines}
