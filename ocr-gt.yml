@@ -384,7 +384,7 @@ entries:
         format: PAGE-XML
         volume:
             - {count: '557', metric: pages}
-         -
+    -
         id: '00000033'
         name: ONB_NewsEye
         url: 'https://zenodo.org/record/3387369'
