@@ -420,3 +420,16 @@ entries:
         format: PAGE-XML
         volume:
             - {count: '400', metric: pages}
+    -
+        id: '00000036'
+        name: NZZ_impresso
+        url: 'https://github.com/impresso/NZZ-black-letter-ground-truth'
+        description: 'Neue Zürcher Zeitung black letter period'
+        language: German
+        time: 1780--1946
+        license:
+            - {name: 'CC BY-NC 4.0', url: 'https://creativecommons.org/licenses/by-nc/4.0/'}
+        format: PAGE-XML
+        volume:
+            - {count: '120', metric: pages}
+         
