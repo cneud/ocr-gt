@@ -432,4 +432,14 @@ entries:
         format: PAGE-XML
         volume:
             - {count: '120', metric: pages}
-         
+    -
+        id: '00000037'
+        name: MiBio
+        url: 'https://github.com/jie-mei/MiBio-OCR-dataset'
+        description: 'Mining Biodiversity OCR dataset'
+        language: English
+        time: 1907
+        license: unknown
+        format: Text
+        volume:
+            - {count: '211', metric: pages}     
