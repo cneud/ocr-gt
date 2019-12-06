@@ -443,3 +443,14 @@ entries:
         format: Text
         volume:
             - {count: '211', metric: pages}     
+    -
+        id: '00000038'
+        name: RASM2019
+        url: 'https://bl.iro.bl.uk/work/f866aefa-b025-4675-b37d-44647649ba71'
+        description: 'BL/Qatar Foundation Arabic Handwritten Ground Truth'
+        language: Arabic
+        time: unknown
+        license: unknown
+        format: PAGE-XML
+        volume:
+            - {count: '120', metric: pages}  
