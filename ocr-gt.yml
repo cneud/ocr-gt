@@ -454,3 +454,14 @@ entries:
         format: PAGE-XML
         volume:
             - {count: '120', metric: pages}  
+    -
+        id: '00000039'
+        name: jze_fraktur
+        url: 'https://github.com/jze/ocropus-model_fraktur'
+        description: 'Fraktur model for OCRopus training data'
+        language: German
+        time: 1805--1925
+        license: unknown
+        format: Text
+        volume:
+            - {count: '3852', metric: lines} 
