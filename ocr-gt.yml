@@ -400,7 +400,7 @@ entries:
         id: '00000034'
         name: READ_Konzil
         url: 'https://zenodo.org/record/215383'
-        description: '8770 trainscribed lines of 18th century handwritten German'
+        description: '8770 transcribed lines of 18th century handwritten German'
         language: German
         time: C18th
         license:
