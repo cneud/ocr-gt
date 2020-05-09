@@ -477,3 +477,15 @@ entries:
         format: PAGE-XML
         volume:
             - {count: '3872', metric: lines}
+    -
+        id: '00000041'
+        name: Weisthuemer
+        url: 'https://github.com/UB-Mannheim/Weisthuemer'
+        description: 'Jacob Grimm Weisthuemer
+        language: German
+        time: 1840––1872
+        license:
+            - {name: 'CC0 1.0', url: 'https://creativecommons.org/publicdomain/zero/1.0/'}
+        format: PAGE-XML
+        volume:
+            - {count: '1969', metric: lines}
