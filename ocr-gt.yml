@@ -465,3 +465,15 @@ entries:
         format: Text
         volume:
             - {count: '3852', metric: lines}
+    -
+        id: '00000040'
+        name: Fibeln
+        url: 'https://github.com/UB-Mannheim/Fibeln'
+        description: 'Primers (19th century)'
+        language: German
+        time: 1860--1898
+        license:
+            - {name: 'CC0 1.0', url: 'https://creativecommons.org/publicdomain/zero/1.0/'}
+        format: PAGE-XML
+        volume:
+            - {count: '3872', metric: lines}
