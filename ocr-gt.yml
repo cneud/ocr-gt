@@ -395,7 +395,7 @@ entries:
             - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
         format: PAGE-XML
         volume:
-            - {count: '161', metric: pages}       
+            - {count: '161', metric: pages}
     -
         id: '00000034'
         name: READ_Konzil
@@ -442,7 +442,7 @@ entries:
         license: unknown
         format: Text
         volume:
-            - {count: '211', metric: pages}     
+            - {count: '211', metric: pages}
     -
         id: '00000038'
         name: RASM2019
@@ -453,7 +453,7 @@ entries:
         license: unknown
         format: PAGE-XML
         volume:
-            - {count: '120', metric: pages}  
+            - {count: '120', metric: pages}
     -
         id: '00000039'
         name: jze_fraktur
@@ -464,4 +464,28 @@ entries:
         license: unknown
         format: Text
         volume:
-            - {count: '3852', metric: lines} 
+            - {count: '3852', metric: lines}
+    -
+        id: '00000040'
+        name: Fibeln
+        url: 'https://github.com/UB-Mannheim/Fibeln'
+        description: 'Primers (19th century)'
+        language: German
+        time: 1860--1898
+        license:
+            - {name: 'CC0 1.0', url: 'https://creativecommons.org/publicdomain/zero/1.0/'}
+        format: PAGE-XML
+        volume:
+            - {count: '3872', metric: lines}
+    -
+        id: '00000041'
+        name: Weisthuemer
+        url: 'https://github.com/UB-Mannheim/Weisthuemer'
+        description: 'Jacob Grimm Weisthuemer
+        language: German
+        time: 1840––1872
+        license:
+            - {name: 'CC0 1.0', url: 'https://creativecommons.org/publicdomain/zero/1.0/'}
+        format: PAGE-XML
+        volume:
+            - {count: '1969', metric: lines}
