@@ -640,3 +640,15 @@ entries:
         format: PAGE-XML
         volume:
             - {count: '37', metric: pages}  
+   -
+        id: '00000055'
+        name: Total-Text
+        url: 'https://github.com/cs-chan/Total-Text-Dataset'
+        description: 'Horizontal, Multi-Oriented, and Curved Text'
+        language: English
+        time: unknown
+        license: 
+            - {name: 'BSD 3-Clause', url: 'https://opensource.org/licenses/BSD-3-Clause'}
+        format: Text
+        volume:
+            - {count: '9330', metric: words} 
