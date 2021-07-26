@@ -692,3 +692,14 @@ entries:
         format: COCO
         volume:
             - {count: '500000', metric: pages} 
+   -
+        id: '00000057'
+        name: 'B-MOD'
+        url: 'https://pero.fit.vutbr.cz/brno_mobile_ocr_dataset'
+        description: 'Brno Mobile OCR Dataset'
+        language: 'eng'
+        time: unknown
+        license: unknown
+        format: PAGE-XML
+        volume:
+            - {count: '515400', metric: lines} 
