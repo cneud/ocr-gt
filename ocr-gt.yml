@@ -628,3 +628,15 @@ entries:
         format: PAGE-XML
         volume:
             - {count: '732', metric: pages}         
+   -
+        id: '00000054'
+        name: ocr-data-zfdg
+        url: 'https://zenodo.org/record/4742068'
+        description: 'Historical prints from around 1830'
+        language: German
+        time: 1830
+        license: 
+            - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
+        format: PAGE-XML
+        volume:
+            - {count: '37', metric: pages}  
