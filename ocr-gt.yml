@@ -652,3 +652,14 @@ entries:
         format: Text
         volume:
             - {count: '9330', metric: words} 
+   -
+        id: '00000056'
+        name: DocBank
+        url: 'https://doc-analysis.github.io/docbank-page/index.html'
+        description: 'Benchmark Dataset for Document Layout Analysis'
+        language: English
+        time: 2014--2018
+        license: unknown
+        format: COCO
+        volume:
+            - {count: '500000', metric: pages} 
