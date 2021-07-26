@@ -581,3 +581,15 @@ entries:
         format: PAGE-XML
         volume:
             - {count: '248', metric: pages}
+   -
+        id: '00000050'
+        name: TAPUSCORPUS
+        url: 'https://github.com/HTR-United/tapuscorpus'
+        description: 'French typewritten Ground Truth'
+        language: French
+        time: 1900--1999
+        license: 
+            - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
+        format: PAGE-XML
+        volume:
+            - {count: '150', metric: pages}
