@@ -522,3 +522,15 @@ entries:
         format: Text
         volume:
             - {count: '5', metric: pages}   
+    -
+        id: '00000045'
+        name: AustrianNewspapers
+        url: 'https://github.com/UB-Mannheim/AustrianNewspapers'
+        description: 'Enhancement of ONB_NewsEye by UB Mannheim'
+        language: German
+        time: 1864--1911
+        license:
+            - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
+        format: PAGE-XML
+        volume:
+            - {count: '161', metric: pages}
