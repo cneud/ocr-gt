@@ -546,3 +546,15 @@ entries:
         format: PAGE-XML
         volume:
             - {count: '152', metric: pages}
+   -
+        id: '00000047'
+        name: Salamanca
+        url: 'https://www.salamanca.school/en/works.html'
+        description: 'School of Salamanca works'
+        language: Latin, Spanish
+        time: 1501--1700
+        license: 
+            - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
+        format: TEI
+        volume:
+            - {count: '116', metric: documents}
