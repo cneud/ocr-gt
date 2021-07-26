@@ -583,7 +583,7 @@ entries:
             - {count: '248', metric: pages}
    -
         id: '00000050'
-        name: TAPUSCORPUS
+        name: TAPUS Corpus
         url: 'https://github.com/HTR-United/tapuscorpus'
         description: 'French typewritten Ground Truth'
         language: French
@@ -593,3 +593,15 @@ entries:
         format: PAGE-XML
         volume:
             - {count: '150', metric: pages}
+   -
+        id: '00000051'
+        name: DAHN Corpus
+        url: 'https://github.com/HTR-United/dahncorpus'
+        description: 'French typewritten Ground Truth'
+        language: French
+        time: 1914--1924
+        license: 
+            - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
+        format: PAGE-XML, ALTO
+        volume:
+            - {count: '527', metric: pages}
