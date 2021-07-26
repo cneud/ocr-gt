@@ -493,7 +493,7 @@ entries:
         id: '00000042'
         name: Wollmers deu
         url: 'https://github.com/wollmers/ocr-deu-bio-testfiles'
-        description: 'German language (nature, biology) ground truth
+        description: 'German language (nature, biology) ground truth'
         language: German
         time: unknown
         license: unknown
@@ -504,7 +504,7 @@ entries:
         id: '00000043'
         name: Wollmers lat
         url: 'https://github.com/wollmers/ocr-lat-bio-testfiles'
-        description: 'Latin language (nature, biology) ground truth
+        description: 'Latin language (nature, biology) ground truth'
         language: Latin
         time: unknown
         license: unknown
@@ -515,7 +515,7 @@ entries:
         id: '00000044'
         name: Wollmers eng
         url: 'https://github.com/wollmers/ocr-eng-bio-testfiles'
-        description: 'English language (nature, biology) ground truth
+        description: 'English language (nature, biology) ground truth'
         language: English
         time: unknown
         license: unknown
