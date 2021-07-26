@@ -605,3 +605,15 @@ entries:
         format: PAGE-XML, ALTO
         volume:
             - {count: '527', metric: pages}
+   -
+        id: '00000052'
+        name: DDI-100
+        url: 'https://github.com/machine-intelligence-laboratory/DDI-100'
+        description: 'Distorted Document Images dataset'
+        language: English
+        time: unknown
+        license: 
+            - {name: 'MIT', url: 'https://opensource.org/licenses/MIT'}
+        format: Pickle
+        volume:
+            - {count: '6658', metric: pages}
