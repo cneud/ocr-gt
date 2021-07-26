@@ -558,3 +558,14 @@ entries:
         format: TEI
         volume:
             - {count: '116', metric: documents}
+   -
+        id: '00000048'
+        name: ULB Halle HP1
+        url: 'https://github.com/ulb-sachsen-anhalt/ulb-zeitungsprojekt-hp1'
+        description: 'ULB Sachsen-Anhalt newspapers'
+        language: German
+        time: unknown
+        license: unknown
+        format: Text
+        volume:
+            - {count: '7507', metric: lines}
