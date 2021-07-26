@@ -617,3 +617,14 @@ entries:
         format: Pickle
         volume:
             - {count: '6658', metric: pages}
+   -
+        id: '00000053'
+        name: sGMB
+        url: 'https://github.com/omni-us/research-dataset-sGMB'
+        description: 'Synthetic handwritten Groningen Meaning Bank dataset'
+        language: English
+        time: unknown
+        license: unknown
+        format: PAGE-XML
+        volume:
+            - {count: '732', metric: pages}         
