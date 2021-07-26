@@ -569,3 +569,15 @@ entries:
         format: Text
         volume:
             - {count: '7507', metric: lines}
+   -
+        id: '00000049'
+        name: TIMEUS CORPUS
+        url: 'https://github.com/HTR-United/timeuscorpus'
+        description: 'French 18th/19th HTR by the ANR project TIME-US'
+        language: French
+        time: 1858--1878
+        license: 
+            - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
+        format: PAGE-XML
+        volume:
+            - {count: '248', metric: pages}
