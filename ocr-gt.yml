@@ -534,3 +534,15 @@ entries:
         format: PAGE-XML
         volume:
             - {count: '161', metric: pages}
+    -
+        id: '00000046'
+        name: German-Brazilian Newspapers (GBN)
+        url: 'https://web.inf.ufpr.br/vri/databases/gbn/'
+        description: 'German-Brazilian historical newspapers'
+        language: German, Portuguese
+        time: 1863--1940
+        license: 
+            - {name: Academic, url: 'https://web.inf.ufpr.br/vri/databases/gbn/'}
+        format: PAGE-XML
+        volume:
+            - {count: '152', metric: pages}
