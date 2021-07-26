@@ -481,7 +481,7 @@ entries:
         id: '00000041'
         name: Weisthuemer
         url: 'https://github.com/UB-Mannheim/Weisthuemer'
-        description: 'Jacob Grimm Weisthuemer
+        description: 'Jacob Grimm Weisthuemer'
         language: German
         time: 1840––1872
         license:
@@ -489,3 +489,36 @@ entries:
         format: PAGE-XML
         volume:
             - {count: '1969', metric: lines}
+    -
+        id: '00000042'
+        name: Wollmers deu
+        url: 'https://github.com/wollmers/ocr-deu-bio-testfiles'
+        description: 'German language (nature, biology) ground truth
+        language: German
+        time: unknown
+        license: unknown
+        format: Text
+        volume:
+            - {count: '5', metric: pages}
+    -
+        id: '00000043'
+        name: Wollmers lat
+        url: 'https://github.com/wollmers/ocr-lat-bio-testfiles'
+        description: 'Latin language (nature, biology) ground truth
+        language: Latin
+        time: unknown
+        license: unknown
+        format: Text
+        volume:
+            - {count: '1', metric: pages}
+    -
+        id: '00000044'
+        name: Wollmers eng
+        url: 'https://github.com/wollmers/ocr-eng-bio-testfiles'
+        description: 'English language (nature, biology) ground truth
+        language: English
+        time: unknown
+        license: unknown
+        format: Text
+        volume:
+            - {count: '5', metric: pages}   
