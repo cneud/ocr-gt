@@ -6,7 +6,7 @@ entries:
         name: archiscribe-corpus
         url: 'https://github.com/jbaiter/archiscribe-corpus'
         description: '4255 lines from 112 19th Century German prints published across 73 years'
-        language: German
+        language: 'deu'
         time: 1800--1897
         license:
             - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
@@ -18,7 +18,7 @@ entries:
         name: 'CIS-OCR_Test_Set'
         url: 'https://github.com/cisocrgroup/Resources/tree/master/ocrtestset'
         description: 'PoCoTo example documents with ground truth'
-        language: 'German, Latin, Greek'
+        language: 'deu', 'lat', 'ell'
         time: 1668--1901
         license: unknown
         format: Text
@@ -29,7 +29,7 @@ entries:
         name: 'CLTK_corpora'
         url: 'https://github.com/cltk'
         description: 'Corpora from Classical Language Toolkit'
-        language: 'Greek, Latin'
+        language: 'grc', 'lat'
         license:
             - {name: 'PDM 1.0', url: 'https://creativecommons.org/publicdomain/mark/1.0/'}
         format: Text
@@ -39,7 +39,7 @@ entries:
         name: DIVA-HisDB
         url: 'https://diuf.unifr.ch/main/hisdoc/diva-hisdb'
         description: 'DIVA-HisDB collection of three medieval manuscripts (CSG18, CSG863, CB55)'
-        language: 'Latin, Italian'
+        language: 'lat', 'ita'
         time: 1000--1399
         license:
             - {name: 'CC-BY-NC 3.0', url: 'https://creativecommons.org/licenses/by-nc/3.0/'}
@@ -51,7 +51,7 @@ entries:
         name: EarlyPrintedBooks
         url: 'https://github.com/chreul/OCR_Testdata_EarlyPrintedBooks'
         description: '8,800 lines from several early printed books'
-        language: Latin
+        language: 'lat'
         time: 1476--1572
         license:
             - {name: 'CC-BY-NC-SA 4.0', url: 'https://creativecommons.org/licenses/by-nc-sa/4.0/'}
@@ -63,7 +63,7 @@ entries:
         name: EEBO-TCP
         url: 'https://github.com/Anterotesis/historical-texts/tree/master/eebo-tcp'
         description: 'Early English Books Online (EEBO) documents transcribed by TCP'
-        language: English
+        language: 'eng'
         time: 1475--1700
         license:
             - {name: 'CC0 1.0', url: 'https://creativecommons.org/publicdomain/zero/1.0/'}
@@ -75,7 +75,7 @@ entries:
         name: ECCO-TCP
         url: 'https://github.com/Anterotesis/historical-texts/tree/master/eebo-tcp'
         description: 'Eighteenth Century Collections Online (ECCO) documents transcribed by TCP'
-        language: English
+        language: 'eng'
         time: 1701--1800
         license:
             - {name: 'CC0 1.0', url: 'https://creativecommons.org/publicdomain/zero/1.0/'}
@@ -87,7 +87,7 @@ entries:
         name: eMOP-TCP
         url: 'https://github.com/Early-Modern-OCR/TCP-ECCO-texts'
         description: 'ECCO texts, cleaned up by eMOP'
-        language: English
+        language: 'eng'
         time: 1701--1800
         license:
             - {name: 'CC0 1.0', url: 'https://creativecommons.org/publicdomain/zero/1.0/'}
@@ -99,7 +99,7 @@ entries:
         name: Evans-TCP
         url: 'https://github.com/Anterotesis/historical-texts/tree/master/evans-tcp'
         description: 'Evans Early American Imprints documents transcribed by TCP'
-        language: English
+        language: 'eng'
         time: 1639--1800
         license:
             - {name: 'CC0 1.0', url: 'https://creativecommons.org/publicdomain/zero/1.0/'}
@@ -111,7 +111,7 @@ entries:
         name: FDHN
         url: 'https://digi.kansalliskirjasto.fi/opendata/submit?set_language=en'
         description: 'Finnish Digitised Historical Newspapers'
-        language: 'Finnish, Swedish'
+        language: 'fin', 'swe'
         time: 1911--1914
         license:
             - {name: Terms, url: 'https://digi.kansalliskirjasto.fi/terms'}
@@ -123,7 +123,7 @@ entries:
         name: GERMANA
         url: 'https://www.prhlt.upv.es/wp/resource/the-germana-corpus'
         description: 'The GERMANA corpus “Doña Germana de Foix” (1891)'
-        language: Spanish
+        language: 'spa'
         time: 1891
         license:
             - {name: Terms, url: 'https://www.prhlt.upv.es/wp/resource/the-germana-corpus'}
@@ -135,7 +135,7 @@ entries:
         name: GT4HistOCR
         url: 'https://doi.org/10.5281/zenodo.1344132'
         description: 'Ground Truth for German Fraktur and Early Modern Latin'
-        language: German
+        language: 'deu'
         time: 1476--1898
         license:
             - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
@@ -147,7 +147,7 @@ entries:
         name: imagessan
         url: 'https://github.com/Shreeshrii/imagessan/'
         description: 'Sanskrit images & ground truth (Devanagari script)'
-        language: Sanskrit
+        language: 'san'
         time: unknown
         license: unknown
         format: Text
@@ -157,7 +157,7 @@ entries:
         name: RODRIGO
         url: 'https://zenodo.org/record/1490009'
         description: 'The RODRIGO corpus “Don Rodrigo” (1545)'
-        language: Spanish
+        language: 'spa'
         time: 1545
         license:
             - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
@@ -169,7 +169,7 @@ entries:
         name: ENP
         url: 'http://www.primaresearch.org/datasets/ENP'
         description: 'Historic newspapers from Europeana Newspapers'
-        language: 'Dutch, English, Estonian, Finnish, French, German, Latvian, Polish, Russian, Serbian, Swedish, Ukranian, Yiddish'
+        language: 'nld', 'eng', 'est', 'fin', 'fra', 'deu', 'lav', 'pol', 'rus', 'srp', 'swe', 'ukr', 'yid'
         time: 1618--1900
         license:
             - {name: Terms, url: 'http://www.primaresearch.org/register'}
@@ -181,7 +181,7 @@ entries:
         name: old-books
         url: 'https://github.com/PedroBarcha/old-books-dataset'
         description: 'Old books GT from Project Gutenberg ebooks'
-        language: English
+        language: 'eng'
         time: unknown
         license:
             - {name: 'GPL 3.0', url: 'https://www.gnu.org/licenses/gpl-3.0.en.html'}
@@ -193,7 +193,7 @@ entries:
         name: OCR_GS_Data
         url: 'https://github.com/OpenITI/OCR_GS_Data'
         description: 'Double-checked Arabic Gold Standard from OpenITI'
-        language: 'Arabic, Persian, Turkish'
+        language: 'ara', 'fas', 'tur'
         time: unknown
         license: unknown
         format: Text
@@ -203,7 +203,7 @@ entries:
         name: OCR-D
         url: 'https://ocr-d-repo.scc.kit.edu/api/v1/metastore/bagit'
         description: 'Ground truth data from OCR-D'
-        language: German
+        language: 'deu'
         time: 1506--1900
         license:
             - {name: 'CC-BY-SA 4.0', url: 'https://creativecommons.org/licenses/by-sa/4.0/'}
@@ -215,7 +215,7 @@ entries:
         name: OCR19thSAC
         url: 'https://files.ifi.uzh.ch/cl/OCR19thSAC/'
         description: 'Text+Berg digital Swiss Alpine Club yearbooks'
-        language: 'German, French'
+        language: 'deu', 'fra'
         time: 1864--1924
         license:
             - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
@@ -227,7 +227,7 @@ entries:
         name: MJSynth
         url: 'http://www.robots.ox.ac.uk/~vgg/data/text/'
         description: '9m synthetic images covering 90k words'
-        language: English
+        language: 'eng'
         time: unknown
         license: unknown
         format: Text
@@ -238,7 +238,7 @@ entries:
         name: CDIP
         url: 'https://ir.nist.gov/cdip/README.txt'
         description: 'IIT Complex Document Information Processing Test Collection'
-        language: English
+        language: 'eng'
         time: 2006
         license: unknown
         format: Text
@@ -249,7 +249,7 @@ entries:
         name: IMPACT-BHL
         url: 'https://github.com/impactcentre/groundtruth-bhl'
         description: 'IMPACT: Biodiversity Heritage Library'
-        language: 'English, French, German'
+        language: 'eng', 'fra', 'deu'
         time: unknown
         license:
             - {name: 'CC-BY 3.0', url: 'https://creativecommons.org/licenses/by/3.0/'}
@@ -261,7 +261,7 @@ entries:
         name: IMPACT-BL
         url: 'https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/impact-dataset-browser/?query=&search-filter-institution=BL'
         description: 'IMPACT: The British Library'
-        language: English
+        language: 'eng'
         time: unknown
         license:
             - {name: 'PDM 1.0', url: 'https://creativecommons.org/publicdomain/mark/1.0/'}
@@ -273,7 +273,7 @@ entries:
         name: IMPACT-BNE
         url: 'https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/impact-dataset-browser/?query=&search-filter-institution=BNE'
         description: 'IMPACT: National Library of Spain'
-        language: Spanish
+        language: 'spa'
         time: unknown
         license:
             - {name: 'CC-BY-NC-SA 4.0', url: 'https://creativecommons.org/licenses/by-nc-sa/4.0/'}
@@ -285,7 +285,7 @@ entries:
         name: IMPACT-BNF
         url: 'https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/impact-dataset-browser/?query=&search-filter-institution=BNF'
         description: 'IMPACT: National Library of France'
-        language: French
+        language: 'fra'
         time: unknown
         license:
             - {name: 'CC-BY-NC-SA 4.0', url: 'https://creativecommons.org/licenses/by-nc-sa/4.0/'}
@@ -297,7 +297,7 @@ entries:
         name: IMPACT-BSB
         url: 'https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/impact-dataset-browser/?query=&search-filter-institution=BSB'
         description: 'IMPACT: Bavarian State Library'
-        language: German
+        language: 'deu'
         time: unknown
         license: unknown
         format: PAGE-XML
@@ -307,7 +307,7 @@ entries:
         name: IMPACT-KB
         url: 'http://lab.kb.nl/dataset/ground-truth-impact-project#access'
         description: 'IMPACT: National Library of the Netherlands'
-        language: Dutch
+        language: 'nld'
         time: 1618--1945
         license:
             - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
@@ -319,7 +319,7 @@ entries:
         name: IMPACT-NKC
         url: 'https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/impact-dataset-browser/?query=&search-filter-institution=NKC'
         description: 'IMPACT: Czech National Library'
-        language: Czech
+        language: 'ces'
         time: unknown
         license:
             - {name: 'CC-BY-NC-SA 4.0', url: 'https://creativecommons.org/licenses/by-nc-sa/4.0/'}
@@ -331,7 +331,7 @@ entries:
         name: IMPACT-NLB
         url: 'https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/impact-dataset-browser/?query=&search-filter-institution=NLB'
         description: 'IMPACT: National Library of Bulgaria'
-        language: Bulgarian
+        language: 'bul'
         time: unknown
         license:
             - {name: 'CC-BY-NC-ND 4.0', url: 'https://creativecommons.org/licenses/by-nc-nd/4.0/'}
@@ -343,7 +343,7 @@ entries:
         name: IMPACT-NUK
         url: 'https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/impact-dataset-browser/?query=&search-filter-institution=NUK'
         description: 'IMPACT: National Library of Slovenia'
-        language: Slovenian
+        language: 'slv'
         time: unknown
         license:
             - {name: 'CC-BY-NC-SA 4.0', url: 'https://creativecommons.org/licenses/by-nc-sa/4.0/'}
@@ -355,7 +355,7 @@ entries:
         name: IMPACT-ONB
         url: 'https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/impact-dataset-browser/?query=&search-filter-institution=ONB'
         description: 'IMPACT: Austrian National Library'
-        language: German
+        language: 'deu'
         time: unknown
         license: unknown
         format: PAGE-XML
@@ -365,7 +365,7 @@ entries:
         name: IMPACT-PSNC
         url: 'http://dl.psnc.pl/activities/projekty/impact/results/'
         description: 'IMPACT: Polish ground truth from four digital libraries'
-        language: Polish
+        language: 'pol'
         time: unknown
         license:
             - {name: 'CC-BY 3.0', url: 'https://creativecommons.org/licenses/by-nc-sa/4.0/'}
@@ -377,7 +377,7 @@ entries:
         name: HORAE
         url: 'https://github.com/oriflamms/HORAE'
         description: 'HORAE: an annotated dataset of books of hours'
-        language: Latin
+        language: 'lat'
         time: unknown
         license:
             - {name: 'CC-BY 3.0', url: 'https://creativecommons.org/licenses/by-nc-sa/4.0/'}
@@ -389,7 +389,7 @@ entries:
         name: ONB_NewsEye
         url: 'https://zenodo.org/record/3387369'
         description: 'READ OCR training dataset from Austrian Newspapers'
-        language: German
+        language: 'deu'
         time: 1864--1911
         license:
             - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
@@ -401,7 +401,7 @@ entries:
         name: READ_Konzil
         url: 'https://zenodo.org/record/215383'
         description: '8770 transcribed lines of 18th century handwritten German'
-        language: German
+        language: 'deu'
         time: C18th
         license:
             - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
@@ -413,7 +413,7 @@ entries:
         name: READ_Bozen
         url: 'https://zenodo.org/record/218236'
         description: 'Handwritten Early Modern German Ratsprotokolle'
-        language: German
+        language: 'deu'
         time: 1470--1805
         license:
             - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
@@ -425,7 +425,7 @@ entries:
         name: NZZ_impresso
         url: 'https://github.com/impresso/NZZ-black-letter-ground-truth'
         description: 'Neue Zürcher Zeitung black letter period'
-        language: German
+        language: 'deu'
         time: 1780--1946
         license:
             - {name: 'CC BY-NC 4.0', url: 'https://creativecommons.org/licenses/by-nc/4.0/'}
@@ -437,7 +437,7 @@ entries:
         name: MiBio
         url: 'https://github.com/jie-mei/MiBio-OCR-dataset'
         description: 'Mining Biodiversity OCR dataset'
-        language: English
+        language: 'eng'
         time: 1907
         license: unknown
         format: Text
@@ -448,7 +448,7 @@ entries:
         name: RASM2019
         url: 'https://bl.iro.bl.uk/work/f866aefa-b025-4675-b37d-44647649ba71'
         description: 'BL/Qatar Foundation Arabic Handwritten Ground Truth'
-        language: Arabic
+        language: 'ara'
         time: unknown
         license: unknown
         format: PAGE-XML
@@ -459,7 +459,7 @@ entries:
         name: jze_fraktur
         url: 'https://github.com/jze/ocropus-model_fraktur'
         description: 'Fraktur model for OCRopus training data'
-        language: German
+        language: 'deu'
         time: 1805--1925
         license: unknown
         format: Text
@@ -470,7 +470,7 @@ entries:
         name: Fibeln
         url: 'https://github.com/UB-Mannheim/Fibeln'
         description: 'Primers (19th century)'
-        language: German
+        language: 'deu'
         time: 1860--1898
         license:
             - {name: 'CC0 1.0', url: 'https://creativecommons.org/publicdomain/zero/1.0/'}
@@ -482,7 +482,7 @@ entries:
         name: Weisthuemer
         url: 'https://github.com/UB-Mannheim/Weisthuemer'
         description: 'Jacob Grimm Weisthuemer'
-        language: German
+        language: 'deu'
         time: 1840––1872
         license:
             - {name: 'CC0 1.0', url: 'https://creativecommons.org/publicdomain/zero/1.0/'}
@@ -494,7 +494,7 @@ entries:
         name: Wollmers deu
         url: 'https://github.com/wollmers/ocr-deu-bio-testfiles'
         description: 'German language (nature, biology) ground truth'
-        language: German
+        language: 'deu'
         time: unknown
         license: unknown
         format: Text
@@ -505,7 +505,7 @@ entries:
         name: Wollmers lat
         url: 'https://github.com/wollmers/ocr-lat-bio-testfiles'
         description: 'Latin language (nature, biology) ground truth'
-        language: Latin
+        language: 'lat'
         time: unknown
         license: unknown
         format: Text
@@ -516,7 +516,7 @@ entries:
         name: Wollmers eng
         url: 'https://github.com/wollmers/ocr-eng-bio-testfiles'
         description: 'English language (nature, biology) ground truth'
-        language: English
+        language: 'eng'
         time: unknown
         license: unknown
         format: Text
@@ -527,7 +527,7 @@ entries:
         name: AustrianNewspapers
         url: 'https://github.com/UB-Mannheim/AustrianNewspapers'
         description: 'Enhancement of ONB_NewsEye by UB Mannheim'
-        language: German
+        language: 'deu'
         time: 1864--1911
         license:
             - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
@@ -539,7 +539,7 @@ entries:
         name: German-Brazilian Newspapers (GBN)
         url: 'https://web.inf.ufpr.br/vri/databases/gbn/'
         description: 'German-Brazilian historical newspapers'
-        language: German, Portuguese
+        language: 'deu', 'por'
         time: 1863--1940
         license: 
             - {name: Academic, url: 'https://web.inf.ufpr.br/vri/databases/gbn/'}
@@ -551,7 +551,7 @@ entries:
         name: Salamanca
         url: 'https://www.salamanca.school/en/works.html'
         description: 'School of Salamanca works'
-        language: Latin, Spanish
+        language: 'lat', 'spa'
         time: 1501--1700
         license: 
             - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
@@ -563,7 +563,7 @@ entries:
         name: ULB Halle HP1
         url: 'https://github.com/ulb-sachsen-anhalt/ulb-zeitungsprojekt-hp1'
         description: 'ULB Sachsen-Anhalt newspapers'
-        language: German
+        language: 'deu'
         time: unknown
         license: unknown
         format: Text
@@ -574,7 +574,7 @@ entries:
         name: TIMEUS CORPUS
         url: 'https://github.com/HTR-United/timeuscorpus'
         description: 'French 18th/19th HTR by the ANR project TIME-US'
-        language: French
+        language: 'fra'
         time: 1858--1878
         license: 
             - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
@@ -586,7 +586,7 @@ entries:
         name: TAPUS Corpus
         url: 'https://github.com/HTR-United/tapuscorpus'
         description: 'French typewritten Ground Truth'
-        language: French
+        language: 'fra'
         time: 1900--1999
         license: 
             - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
@@ -598,7 +598,7 @@ entries:
         name: DAHN Corpus
         url: 'https://github.com/HTR-United/dahncorpus'
         description: 'French typewritten Ground Truth'
-        language: French
+        language: 'fra'
         time: 1914--1924
         license: 
             - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
@@ -610,7 +610,7 @@ entries:
         name: DDI-100
         url: 'https://github.com/machine-intelligence-laboratory/DDI-100'
         description: 'Distorted Document Images dataset'
-        language: English
+        language: 'eng'
         time: unknown
         license: 
             - {name: 'MIT', url: 'https://opensource.org/licenses/MIT'}
@@ -622,7 +622,7 @@ entries:
         name: sGMB
         url: 'https://github.com/omni-us/research-dataset-sGMB'
         description: 'Synthetic handwritten Groningen Meaning Bank dataset'
-        language: English
+        language: 'eng'
         time: unknown
         license: unknown
         format: PAGE-XML
@@ -633,7 +633,7 @@ entries:
         name: ocr-data-zfdg
         url: 'https://zenodo.org/record/4742068'
         description: 'Historical prints from around 1830'
-        language: German
+        language: 'deu'
         time: 1830
         license: 
             - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
@@ -645,7 +645,7 @@ entries:
         name: Total-Text
         url: 'https://github.com/cs-chan/Total-Text-Dataset'
         description: 'Horizontal, Multi-Oriented, and Curved Text'
-        language: English
+        language: 'eng'
         time: unknown
         license: 
             - {name: 'BSD 3-Clause', url: 'https://opensource.org/licenses/BSD-3-Clause'}
@@ -657,7 +657,7 @@ entries:
         name: DocBank
         url: 'https://doc-analysis.github.io/docbank-page/index.html'
         description: 'Benchmark Dataset for Document Layout Analysis'
-        language: English
+        language: 'eng'
         time: 2014--2018
         license: unknown
         format: COCO
