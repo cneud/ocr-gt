@@ -655,7 +655,7 @@ entries:
         license: unknown
         format: PAGE-XML
         volume:
-            - {count: '732', metric: pages}         
+            - {count: '732', metric: pages}
    -
         id: '00000054'
         name: 'ocr-data'
@@ -667,7 +667,7 @@ entries:
             - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
         format: PAGE-XML
         volume:
-            - {count: '37', metric: pages}  
+            - {count: '37', metric: pages}
    -
         id: '00000055'
         name: 'Total-Text'
@@ -679,7 +679,7 @@ entries:
             - {name: 'BSD 3-Clause', url: 'https://opensource.org/licenses/BSD-3-Clause'}
         format: Text
         volume:
-            - {count: '9330', metric: words} 
+            - {count: '9330', metric: words}
    -
         id: '00000056'
         name: 'DocBank'
@@ -691,7 +691,7 @@ entries:
         license: unknown
         format: COCO
         volume:
-            - {count: '500000', metric: pages} 
+            - {count: '500000', metric: pages}
    -
         id: '00000057'
         name: 'B-MOD'
@@ -708,11 +708,24 @@ entries:
         name: 'VOC_HTR'
         url: 'https://zenodo.org/record/4638495'
         description: 'Dutch East-Asia Company documents'
-        language: 'eng'
+        language: 'nld'
         time: 
             - {start: '1617', end: '1972'}
         license: 
             - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
         format: PAGE-XML
         volume:
-            - {count: '6000', metric: pages}       
+            - {count: '6000', metric: pages}
+   -
+        id: '00000059'
+        name: 'IAM'
+        url: 'https://fki.tic.heia-fr.ch/databases/iam-handwriting-database'
+        description: 'IAM Handwriting Database'
+        language: 'eng'
+        time: 
+            - {start: '1999', end: '2002'}
+        license: 
+            - {name: 'Terms', url: 'https://fki.tic.heia-fr.ch/register'}
+        format: XML+DTD
+        volume:
+            - {count: '13353', metric: lines}
