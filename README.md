@@ -5,7 +5,7 @@
 For more/other resources, see also [IAPR-TC11: Datasets](http://datasets.iapr-tc11.org/) and [HTR-United](https://htr-united.github.io/).
 
 ## Contribute
-To add a new resource, please submit a [pull request](https://github.com/cneud/ocr-gt/pulls) with this information:
+To add a new resource, please create an [issue](https://github.com/cneud/ocr-gt/issues) or [pull request](https://github.com/cneud/ocr-gt/pulls) with this information:
 ```
 name:         short name or abbreviation
 url:          online presence of resource
