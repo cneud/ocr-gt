@@ -741,3 +741,15 @@ entries:
         format: COCO
         volume:
             - {count: '2271', metric: pages}
+   -
+        id: '00000061'
+        name: 'PRImA Layout Analysis Dataset'
+        url: 'https://www.primaresearch.org/datasets/Layout_Analysis'
+        description: 'A realistic contemporary document dataset'
+        language: 'jpn'
+        time: '1953'
+        license: 
+            - {name: 'Terms', url: 'https://www.primaresearch.org/register'}
+        format: PAGE-XML
+        volume:
+            - {count: '305', metric: pages}
