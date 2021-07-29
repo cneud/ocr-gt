@@ -729,3 +729,15 @@ entries:
         format: XML+DTD
         volume:
             - {count: '13353', metric: lines}
+   -
+        id: '00000060'
+        name: 'HJDataset'
+        url: 'https://dell-research-harvard.github.io/HJDataset/'
+        description: 'Historical Japanese Documents with Complex Layouts'
+        language: 'jpn'
+        time: '1953'
+        license: 
+            - {name: 'Terms', url: 'https://forms.gle/9BYYgo9bAjLnq7RQA'}
+        format: COCO
+        volume:
+            - {count: '2271', metric: pages}
