@@ -702,4 +702,17 @@ entries:
         license: unknown
         format: PAGE-XML
         volume:
-            - {count: '515400', metric: lines} 
+            - {count: '515400', metric: lines}
+   -
+        id: '00000058'
+        name: 'VOC_HTR'
+        url: 'https://zenodo.org/record/4638495'
+        description: 'Dutch East-Asia Company documents'
+        language: 'eng'
+        time: 
+            - {start: '1617', end: '1972'}
+        license: 
+            - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
+        format: PAGE-XML
+        volume:
+            - {count: '6000', metric: pages}       
