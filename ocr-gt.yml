@@ -19,7 +19,10 @@ entries:
         name: 'CIS-OCR'
         url: 'https://github.com/cisocrgroup/Resources/tree/master/ocrtestset'
         description: 'PoCoTo example documents with ground truth'
-        language: 'deu', 'lat', 'ell'
+        language: 
+            - 'deu'
+            - 'lat'
+            - 'ell' 
         time: 
             - {start: '1668', end: '1901'}
         license: unknown
@@ -31,7 +34,9 @@ entries:
         name: 'CLTK'
         url: 'https://github.com/cltk'
         description: 'Corpora from Classical Language Toolkit'
-        language: 'grc', 'lat'
+        language: 
+            - 'grc'
+            - 'lat'
         time: 'unknown'
         license:
             - {name: 'PDM 1.0', url: 'https://creativecommons.org/publicdomain/mark/1.0/'}
@@ -42,7 +47,9 @@ entries:
         name: 'DIVA-HisDB'
         url: 'https://diuf.unifr.ch/main/hisdoc/diva-hisdb'
         description: 'DIVA-HisDB collection of three medieval manuscripts (CSG18, CSG863, CB55)'
-        language: 'lat', 'ita'
+        language: 
+            - 'lat'
+            - 'ita'
         time: 
             - {start: '1000', end: '1399'}
         license:
@@ -120,7 +127,9 @@ entries:
         name: 'FDHN'
         url: 'https://digi.kansalliskirjasto.fi/opendata/submit?set_language=en'
         description: 'Finnish Digitised Historical Newspapers'
-        language: 'fin', 'swe'
+        language: 
+            - 'fin'
+            - 'swe'
         time: 
             - {start: '1911', end: '1914'}
         license:
@@ -180,7 +189,20 @@ entries:
         name: 'ENP'
         url: 'http://www.primaresearch.org/datasets/ENP'
         description: 'Historic newspapers from Europeana Newspapers'
-        language: 'nld', 'eng', 'est', 'fin', 'fra', 'deu', 'lav', 'pol', 'rus', 'srp', 'swe', 'ukr', 'yid'
+        language: 
+            - 'nld'
+            - 'eng'
+            - 'est'
+            - 'fin'
+            - 'fra'
+            - 'deu'
+            - 'lav'
+            - 'pol'
+            - 'rus'
+            - 'srp'
+            - 'swe'
+            - 'ukr'
+            - 'yid'
         time: 
             - {start: '1618', end: '1900'}
         license:
@@ -205,7 +227,10 @@ entries:
         name: 'OCR_GS_Data'
         url: 'https://github.com/OpenITI/OCR_GS_Data'
         description: 'Double-checked Arabic Gold Standard from OpenITI'
-        language: 'ara', 'fas', 'tur'
+        language: 
+            - 'ara'
+            - 'fas'
+            - 'tur'
         time: unknown
         license: unknown
         format: Text
@@ -228,7 +253,9 @@ entries:
         name: 'OCR19thSAC'
         url: 'https://files.ifi.uzh.ch/cl/OCR19thSAC/'
         description: 'Text+Berg digital Swiss Alpine Club yearbooks'
-        language: 'deu', 'fra'
+        language: 
+            - 'deu'
+            - 'fra'
         time: 
             - {start: '1864', end: '1924'}
         license:
@@ -263,7 +290,10 @@ entries:
         name: 'IMPACT-BHL'
         url: 'https://github.com/impactcentre/groundtruth-bhl'
         description: 'IMPACT: Biodiversity Heritage Library'
-        language: 'eng', 'fra', 'deu'
+        language: 
+            - 'eng'
+            - 'fra'
+            - 'deu'
         time: unknown
         license:
             - {name: 'CC-BY 3.0', url: 'https://creativecommons.org/licenses/by/3.0/'}
@@ -562,7 +592,9 @@ entries:
         name: 'GBN'
         url: 'https://web.inf.ufpr.br/vri/databases/gbn/'
         description: 'German-Brazilian historical newspapers'
-        language: 'deu', 'por'
+        language: 
+            - 'deu'
+            - 'por'
         time: 
             - {start: '1863', end: '1940'}
         license: 
@@ -575,7 +607,9 @@ entries:
         name: 'Salamanca'
         url: 'https://www.salamanca.school/en/works.html'
         description: 'School of Salamanca works'
-        language: 'lat', 'spa'
+        language: 
+            - 'lat'
+            - 'spa'
         time: 
             - {start: '1501', end: '1700'}
         license: 
