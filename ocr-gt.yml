@@ -647,7 +647,7 @@ entries:
         url: 'https://github.com/HTR-United/tapuscorpus'
         description: 'French typewritten Ground Truth'
         language: 'fra'
-        time: 1900--1999
+        time: 
             - {start: '1900', end: '1999'}
         license: 
             - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
@@ -660,7 +660,7 @@ entries:
         url: 'https://github.com/HTR-United/dahncorpus'
         description: 'French typewritten Ground Truth'
         language: 'fra'
-        time: 1914--1924
+        time: 
             - {start: '1914', end: '1924'}
         license: 
             - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
