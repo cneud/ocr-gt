@@ -1,0 +1,1 @@
+# OCR Ground Truth Resources
