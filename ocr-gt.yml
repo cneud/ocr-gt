@@ -570,7 +570,7 @@ entries:
         format: PAGE-XML
         volume:
             - {count: '152', metric: pages}
-   -
+    -
         id: '00000047'
         name: 'Salamanca'
         url: 'https://www.salamanca.school/en/works.html'
@@ -583,7 +583,7 @@ entries:
         format: TEI
         volume:
             - {count: '116', metric: documents}
-   -
+    -
         id: '00000048'
         name: 'ULB_Halle_HP1'
         url: 'https://github.com/ulb-sachsen-anhalt/ulb-zeitungsprojekt-hp1'
@@ -594,7 +594,7 @@ entries:
         format: Text
         volume:
             - {count: '7507', metric: lines}
-   -
+    -
         id: '00000049'
         name: 'TIMEUS'
         url: 'https://github.com/HTR-United/timeuscorpus'
@@ -607,7 +607,7 @@ entries:
         format: PAGE-XML
         volume:
             - {count: '248', metric: pages}
-   -
+    -
         id: '00000050'
         name: 'TAPUS'
         url: 'https://github.com/HTR-United/tapuscorpus'
@@ -620,7 +620,7 @@ entries:
         format: PAGE-XML
         volume:
             - {count: '150', metric: pages}
-   -
+    -
         id: '00000051'
         name: 'DAHN'
         url: 'https://github.com/HTR-United/dahncorpus'
@@ -633,7 +633,7 @@ entries:
         format: PAGE-XML, ALTO
         volume:
             - {count: '527', metric: pages}
-   -
+    -
         id: '00000052'
         name: 'DDI-100'
         url: 'https://github.com/machine-intelligence-laboratory/DDI-100'
@@ -645,7 +645,7 @@ entries:
         format: Pickle
         volume:
             - {count: '6658', metric: pages}
-   -
+    -
         id: '00000053'
         name: 'sGMB'
         url: 'https://github.com/omni-us/research-dataset-sGMB'
@@ -656,7 +656,7 @@ entries:
         format: PAGE-XML
         volume:
             - {count: '732', metric: pages}
-   -
+    -
         id: '00000054'
         name: 'ocr-data'
         url: 'https://zenodo.org/record/4742068'
@@ -668,7 +668,7 @@ entries:
         format: PAGE-XML
         volume:
             - {count: '37', metric: pages}
-   -
+    -
         id: '00000055'
         name: 'Total-Text'
         url: 'https://github.com/cs-chan/Total-Text-Dataset'
@@ -680,7 +680,7 @@ entries:
         format: Text
         volume:
             - {count: '9330', metric: words}
-   -
+    -
         id: '00000056'
         name: 'DocBank'
         url: 'https://doc-analysis.github.io/docbank-page/index.html'
@@ -692,7 +692,7 @@ entries:
         format: COCO
         volume:
             - {count: '500000', metric: pages}
-   -
+    -
         id: '00000057'
         name: 'B-MOD'
         url: 'https://pero.fit.vutbr.cz/brno_mobile_ocr_dataset'
@@ -703,7 +703,7 @@ entries:
         format: PAGE-XML
         volume:
             - {count: '515400', metric: lines}
-   -
+    -
         id: '00000058'
         name: 'VOC_HTR'
         url: 'https://zenodo.org/record/4638495'
@@ -716,7 +716,7 @@ entries:
         format: PAGE-XML
         volume:
             - {count: '6000', metric: pages}
-   -
+    -
         id: '00000059'
         name: 'IAM'
         url: 'https://fki.tic.heia-fr.ch/databases/iam-handwriting-database'
@@ -729,7 +729,7 @@ entries:
         format: XML+DTD
         volume:
             - {count: '13353', metric: lines}
-   -
+    -
         id: '00000060'
         name: 'HJDataset'
         url: 'https://dell-research-harvard.github.io/HJDataset/'
@@ -741,7 +741,7 @@ entries:
         format: COCO
         volume:
             - {count: '2271', metric: pages}
-   -
+    -
         id: '00000061'
         name: 'PRImA Layout Analysis Dataset'
         url: 'https://www.primaresearch.org/datasets/Layout_Analysis'
