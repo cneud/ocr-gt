@@ -1,5 +1,5 @@
 name: ocr-gt
-description: 'OCR Ground Truth Resources'
+description: 'OCR and Ground Truth Resources'
 entries:
     -
         id: '00000001'
@@ -821,4 +821,15 @@ entries:
         license: 
              - {name: 'Terms', url: 'https://forms.gle/yjPyug3zqVumacL37'}
         format: unknown
+        volume: unknown
+    -
+        id: '00000065'
+        name: 'OCRcat'
+        url: 'https://github.com/katabase/OCRcat'
+        description: 'OCRcat training data'
+        language: 'fra'
+        time:
+            - {start: '1818', end: '1994'}
+        license: unknown
+        format: PAGE-XML, ALTO
         volume: unknown
