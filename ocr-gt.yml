@@ -787,3 +787,15 @@ entries:
         format: PAGE-XML
         volume:
             - {count: '305', metric: pages}
+    -
+        id: '00000062'
+        name: 'ocr-greek_cursive'
+        url: 'https://github.com/pharos-alexandria/ocr-greek_cursive'
+        description: 'Greek cursive ground truth for Kraken and for Calamari'
+        language: 'grc'
+        time:
+            - {start: '1612', end: '1772'}
+        license: unknown
+        format: Text
+        volume:
+            - {count: '6749', metric: lines}
