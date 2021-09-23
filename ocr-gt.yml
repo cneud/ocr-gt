@@ -811,3 +811,14 @@ entries:
         format: TSV
         volume:
             - {count: '88019', metric: words}
+    -
+        id: '00000064'
+        name: 'indiscapes'
+        url: 'http://ihdia.iiit.ac.in/indiscapes/'
+        description: 'Intelligent Historical Document Image Analytics initiative dataset'
+        language: 'inc'
+        time: unknown
+        license: 
+             - {name: 'Terms', url: 'https://forms.gle/yjPyug3zqVumacL37'}
+        format: unknown
+        volume: unknown
