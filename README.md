@@ -1,4 +1,4 @@
-# OCR Ground Truth Resources
+# OCR & Ground Truth Resources
 
 ## → **[ocr-gt.yml](https://github.com/cneud/ocr-gt/blob/master/ocr-gt.yml) for up-to-date version**
 
@@ -10,9 +10,9 @@ To add a new resource, please create an [issue](https://github.com/cneud/ocr-gt/
 name:         short name or abbreviation
 url:          online presence of resource
 description:  short description of resource
-language:     language(s) of the resource
+language:     language(s) of the resource (ISO-639 three letter code)
 time:         timeframe covered by resource
 license:      name (and url) of license
 format:       file format of resource
-volume:       number and type (documents, pages, lines) 
+volume:       number and metric (documents, pages, lines, words) 
 ```
