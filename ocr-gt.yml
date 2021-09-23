@@ -833,3 +833,16 @@ entries:
         license: unknown
         format: PAGE-XML, ALTO
         volume: unknown
+    -
+        id: '00000066'
+        name: 'NZZ_impresso (UB Mannheim)'
+        url: 'https://github.com/UB-Mannheim/NZZ-black-letter-ground-truth/tree/gt-fixes'
+        description: 'For of id=00000036 incl. GT fixes by UB Mannheim)'
+        language: 'deu'
+        time: 
+            - {start: '1780', end: '1946'}
+        license:
+            - {name: 'CC BY-NC 4.0', url: 'https://creativecommons.org/licenses/by-nc/4.0/'}
+        format: PAGE-XML
+        volume:
+            - {count: '120', metric: pages}
