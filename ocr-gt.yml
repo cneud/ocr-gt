@@ -799,3 +799,15 @@ entries:
         format: Text
         volume:
             - {count: '6749', metric: lines}
+    -
+        id: '00000063'
+        name: 'BIR-database'
+        url: 'https://github.com/asciusb/BIR-database'
+        description: 'Database for typewritten emphasis (bold, italic, regular)'
+        language: 'fra'
+        time: unkown
+        license: 
+             - {name: 'MIT', url: 'https://opensource.org/licenses/MIT'}
+        format: TSV
+        volume:
+            - {count: '88019', metric: words}
