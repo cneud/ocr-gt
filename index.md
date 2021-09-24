@@ -7,7 +7,7 @@ title: "ocr-gt"
 {% for item in entries %}
     <li>
         <strong>{{ item.name }}</strong><br> 
-        [{{ item.id }}]<br>
+        <sub>[{{ item.id }}]</sub><br>
         {{ item.description }}<br>
         <a href="{{ item.url }}">{{ item.url }}</a>
     </li>
