@@ -5,11 +5,12 @@
 
 {{ site.data.ocr-gt.description }}
 
-<!--
+<!--  Loop through the entries in site.data.ocr-gt and display them in a nice way here  -->
 <ul> 
-{% assign entries = site.data.ocr-gt.entries | sort: 'id' %}
+{% assign entries = site.data.ocr-gt | sort: 'id' %}
 {% for item in entries %}
-    [ Loop through the entries in site.data.ocr-gt and display them in a nice way ]
+    <li>
+        {{ item.name }}
+    </li>
 {% endfor %}
 </ul> 
--->
