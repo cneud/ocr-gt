@@ -1,18 +1,14 @@
-# OCR and Ground Truth Resources
-
-<!-- ---
+---
 title: "OCR and Ground Truth Resources"
 ---
 
-<div>
-{{ site.data.ocr-gt.description }}
+<!-- {{ site.data.ocr-gt.description }} -->
 
 <ul> 
-{% assign entries = site.data.ocr-gt | sort: 'id' %}
-{% for item in entries %}
+<!-- {% assign entries = site.data.ocr-gt.entries | sort: 'id' %} -->
+{% for item in site.data.ocr-gt.entries %}
     <li>
         {{ item.name }}
     </li>
 {% endfor %}
 </ul> 
-</div> -->
