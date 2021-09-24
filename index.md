@@ -1,9 +1,6 @@
----
-title: OCR and Ground Truth Resources
----
-
+<p>
 {{ site.data.ocr-gt.description }}
-
+</p>
 
 <ul> 
 {% assign entries = site.data.ocr-gt | sort: 'id' %}
