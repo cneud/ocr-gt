@@ -1,6 +1,4 @@
-title: "ocr-gt"
-baseurl: "/ocr-gt"
-url: "https://cneud.github.io/ocr-gt"
+title: "OCR and Ground Truth Resources"
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "light"
 search_enabled: true
