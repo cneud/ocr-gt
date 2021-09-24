@@ -1,6 +1,6 @@
 ## OCR & Ground Truth Resources
 
-### → **[ocr-gt](https://cneud.github.io/ocr-gt/) for up-to-date version**
+### → **[online version](https://cneud.github.io/ocr-gt/), [full version](https://github.com/cneud/ocr-gt/blob/master/ocr-gt.yml)**
 
 For more/other resources, see also [IAPR-TC11: Datasets](http://datasets.iapr-tc11.org/) and [HTR-United](https://htr-united.github.io/).
 
