@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: null
 title: OCR and Ground Truth Resources
 ---
 
