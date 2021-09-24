@@ -6,8 +6,7 @@ title: "ocr-gt"
 {% assign entries = site.data.ocr-gt.entries | sort: 'id' %}
 {% for item in entries %}
     <li>
-        {{ item.name }}
-        {{ item.description }}
+        <strong>{{ item.name }}</strong>. {{ item.description }}
     </li>
 {% endfor %}
 </ul> 
