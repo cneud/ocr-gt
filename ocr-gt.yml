@@ -837,7 +837,7 @@ entries:
         id: '00000066'
         name: 'NZZ_impresso (UB Mannheim)'
         url: 'https://github.com/UB-Mannheim/NZZ-black-letter-ground-truth/tree/gt-fixes'
-        description: 'For of id=00000036 incl. GT fixes by UB Mannheim)'
+        description: 'Fork of 00000036 incl. GT fixes by UB Mannheim)'
         language: 'deu'
         time: 
             - {start: '1780', end: '1946'}
