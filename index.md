@@ -7,6 +7,7 @@ title: "ocr-gt"
 {% for item in entries %}
     <li>
         {{ item.name }}
+        {{ item.description }}
     </li>
 {% endfor %}
 </ul> 
