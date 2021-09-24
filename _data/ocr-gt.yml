@@ -1,5 +1,5 @@
 name: ocr-gt
-description: 'OCR Ground Truth Resources'
+description: 'OCR and Ground Truth Resources'
 entries:
     -
         id: '00000001'
@@ -19,7 +19,10 @@ entries:
         name: 'CIS-OCR'
         url: 'https://github.com/cisocrgroup/Resources/tree/master/ocrtestset'
         description: 'PoCoTo example documents with ground truth'
-        language: 'deu', 'lat', 'ell'
+        language: 
+            - 'deu'
+            - 'lat'
+            - 'ell' 
         time: 
             - {start: '1668', end: '1901'}
         license: unknown
@@ -31,7 +34,9 @@ entries:
         name: 'CLTK'
         url: 'https://github.com/cltk'
         description: 'Corpora from Classical Language Toolkit'
-        language: 'grc', 'lat'
+        language: 
+            - 'grc'
+            - 'lat'
         time: 'unknown'
         license:
             - {name: 'PDM 1.0', url: 'https://creativecommons.org/publicdomain/mark/1.0/'}
@@ -42,7 +47,9 @@ entries:
         name: 'DIVA-HisDB'
         url: 'https://diuf.unifr.ch/main/hisdoc/diva-hisdb'
         description: 'DIVA-HisDB collection of three medieval manuscripts (CSG18, CSG863, CB55)'
-        language: 'lat', 'ita'
+        language: 
+            - 'lat'
+            - 'ita'
         time: 
             - {start: '1000', end: '1399'}
         license:
@@ -120,7 +127,9 @@ entries:
         name: 'FDHN'
         url: 'https://digi.kansalliskirjasto.fi/opendata/submit?set_language=en'
         description: 'Finnish Digitised Historical Newspapers'
-        language: 'fin', 'swe'
+        language: 
+            - 'fin'
+            - 'swe'
         time: 
             - {start: '1911', end: '1914'}
         license:
@@ -180,7 +189,20 @@ entries:
         name: 'ENP'
         url: 'http://www.primaresearch.org/datasets/ENP'
         description: 'Historic newspapers from Europeana Newspapers'
-        language: 'nld', 'eng', 'est', 'fin', 'fra', 'deu', 'lav', 'pol', 'rus', 'srp', 'swe', 'ukr', 'yid'
+        language: 
+            - 'nld'
+            - 'eng'
+            - 'est'
+            - 'fin'
+            - 'fra'
+            - 'deu'
+            - 'lav'
+            - 'pol'
+            - 'rus'
+            - 'srp'
+            - 'swe'
+            - 'ukr'
+            - 'yid'
         time: 
             - {start: '1618', end: '1900'}
         license:
@@ -205,7 +227,10 @@ entries:
         name: 'OCR_GS_Data'
         url: 'https://github.com/OpenITI/OCR_GS_Data'
         description: 'Double-checked Arabic Gold Standard from OpenITI'
-        language: 'ara', 'fas', 'tur'
+        language: 
+            - 'ara'
+            - 'fas'
+            - 'tur'
         time: unknown
         license: unknown
         format: Text
@@ -228,7 +253,9 @@ entries:
         name: 'OCR19thSAC'
         url: 'https://files.ifi.uzh.ch/cl/OCR19thSAC/'
         description: 'Text+Berg digital Swiss Alpine Club yearbooks'
-        language: 'deu', 'fra'
+        language: 
+            - 'deu'
+            - 'fra'
         time: 
             - {start: '1864', end: '1924'}
         license:
@@ -263,7 +290,10 @@ entries:
         name: 'IMPACT-BHL'
         url: 'https://github.com/impactcentre/groundtruth-bhl'
         description: 'IMPACT: Biodiversity Heritage Library'
-        language: 'eng', 'fra', 'deu'
+        language: 
+            - 'eng'
+            - 'fra'
+            - 'deu'
         time: unknown
         license:
             - {name: 'CC-BY 3.0', url: 'https://creativecommons.org/licenses/by/3.0/'}
@@ -562,7 +592,9 @@ entries:
         name: 'GBN'
         url: 'https://web.inf.ufpr.br/vri/databases/gbn/'
         description: 'German-Brazilian historical newspapers'
-        language: 'deu', 'por'
+        language: 
+            - 'deu'
+            - 'por'
         time: 
             - {start: '1863', end: '1940'}
         license: 
@@ -570,12 +602,14 @@ entries:
         format: PAGE-XML
         volume:
             - {count: '152', metric: pages}
-   -
+    -
         id: '00000047'
         name: 'Salamanca'
         url: 'https://www.salamanca.school/en/works.html'
         description: 'School of Salamanca works'
-        language: 'lat', 'spa'
+        language: 
+            - 'lat'
+            - 'spa'
         time: 
             - {start: '1501', end: '1700'}
         license: 
@@ -583,7 +617,7 @@ entries:
         format: TEI
         volume:
             - {count: '116', metric: documents}
-   -
+    -
         id: '00000048'
         name: 'ULB_Halle_HP1'
         url: 'https://github.com/ulb-sachsen-anhalt/ulb-zeitungsprojekt-hp1'
@@ -594,7 +628,7 @@ entries:
         format: Text
         volume:
             - {count: '7507', metric: lines}
-   -
+    -
         id: '00000049'
         name: 'TIMEUS'
         url: 'https://github.com/HTR-United/timeuscorpus'
@@ -607,33 +641,33 @@ entries:
         format: PAGE-XML
         volume:
             - {count: '248', metric: pages}
-   -
+    -
         id: '00000050'
         name: 'TAPUS'
         url: 'https://github.com/HTR-United/tapuscorpus'
         description: 'French typewritten Ground Truth'
         language: 'fra'
-        time: 1900--1999
+        time: 
             - {start: '1900', end: '1999'}
         license: 
             - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
         format: PAGE-XML
         volume:
             - {count: '150', metric: pages}
-   -
+    -
         id: '00000051'
         name: 'DAHN'
         url: 'https://github.com/HTR-United/dahncorpus'
         description: 'French typewritten Ground Truth'
         language: 'fra'
-        time: 1914--1924
+        time: 
             - {start: '1914', end: '1924'}
         license: 
             - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
         format: PAGE-XML, ALTO
         volume:
             - {count: '527', metric: pages}
-   -
+    -
         id: '00000052'
         name: 'DDI-100'
         url: 'https://github.com/machine-intelligence-laboratory/DDI-100'
@@ -645,7 +679,7 @@ entries:
         format: Pickle
         volume:
             - {count: '6658', metric: pages}
-   -
+    -
         id: '00000053'
         name: 'sGMB'
         url: 'https://github.com/omni-us/research-dataset-sGMB'
@@ -656,7 +690,7 @@ entries:
         format: PAGE-XML
         volume:
             - {count: '732', metric: pages}
-   -
+    -
         id: '00000054'
         name: 'ocr-data'
         url: 'https://zenodo.org/record/4742068'
@@ -668,7 +702,7 @@ entries:
         format: PAGE-XML
         volume:
             - {count: '37', metric: pages}
-   -
+    -
         id: '00000055'
         name: 'Total-Text'
         url: 'https://github.com/cs-chan/Total-Text-Dataset'
@@ -680,7 +714,7 @@ entries:
         format: Text
         volume:
             - {count: '9330', metric: words}
-   -
+    -
         id: '00000056'
         name: 'DocBank'
         url: 'https://doc-analysis.github.io/docbank-page/index.html'
@@ -692,7 +726,7 @@ entries:
         format: COCO
         volume:
             - {count: '500000', metric: pages}
-   -
+    -
         id: '00000057'
         name: 'B-MOD'
         url: 'https://pero.fit.vutbr.cz/brno_mobile_ocr_dataset'
@@ -703,7 +737,7 @@ entries:
         format: PAGE-XML
         volume:
             - {count: '515400', metric: lines}
-   -
+    -
         id: '00000058'
         name: 'VOC_HTR'
         url: 'https://zenodo.org/record/4638495'
@@ -716,7 +750,7 @@ entries:
         format: PAGE-XML
         volume:
             - {count: '6000', metric: pages}
-   -
+    -
         id: '00000059'
         name: 'IAM'
         url: 'https://fki.tic.heia-fr.ch/databases/iam-handwriting-database'
@@ -729,7 +763,7 @@ entries:
         format: XML+DTD
         volume:
             - {count: '13353', metric: lines}
-   -
+    -
         id: '00000060'
         name: 'HJDataset'
         url: 'https://dell-research-harvard.github.io/HJDataset/'
@@ -741,7 +775,7 @@ entries:
         format: COCO
         volume:
             - {count: '2271', metric: pages}
-   -
+    -
         id: '00000061'
         name: 'PRImA Layout Analysis Dataset'
         url: 'https://www.primaresearch.org/datasets/Layout_Analysis'
@@ -753,3 +787,62 @@ entries:
         format: PAGE-XML
         volume:
             - {count: '305', metric: pages}
+    -
+        id: '00000062'
+        name: 'ocr-greek_cursive'
+        url: 'https://github.com/pharos-alexandria/ocr-greek_cursive'
+        description: 'Greek cursive ground truth for Kraken and for Calamari'
+        language: 'grc'
+        time:
+            - {start: '1612', end: '1772'}
+        license: unknown
+        format: Text
+        volume:
+            - {count: '6749', metric: lines}
+    -
+        id: '00000063'
+        name: 'BIR-database'
+        url: 'https://github.com/asciusb/BIR-database'
+        description: 'Database for typewritten emphasis (bold, italic, regular)'
+        language: 'fra'
+        time: unkown
+        license: 
+             - {name: 'MIT', url: 'https://opensource.org/licenses/MIT'}
+        format: TSV
+        volume:
+            - {count: '88019', metric: words}
+    -
+        id: '00000064'
+        name: 'indiscapes'
+        url: 'http://ihdia.iiit.ac.in/indiscapes/'
+        description: 'Intelligent Historical Document Image Analytics initiative dataset'
+        language: 'inc'
+        time: unknown
+        license: 
+             - {name: 'Terms', url: 'https://forms.gle/yjPyug3zqVumacL37'}
+        format: unknown
+        volume: unknown
+    -
+        id: '00000065'
+        name: 'OCRcat'
+        url: 'https://github.com/katabase/OCRcat'
+        description: 'OCRcat training data'
+        language: 'fra'
+        time:
+            - {start: '1818', end: '1994'}
+        license: unknown
+        format: PAGE-XML, ALTO
+        volume: unknown
+    -
+        id: '00000066'
+        name: 'NZZ_impresso (UB Mannheim)'
+        url: 'https://github.com/UB-Mannheim/NZZ-black-letter-ground-truth/tree/gt-fixes'
+        description: 'For of id=00000036 incl. GT fixes by UB Mannheim)'
+        language: 'deu'
+        time: 
+            - {start: '1780', end: '1946'}
+        license:
+            - {name: 'CC BY-NC 4.0', url: 'https://creativecommons.org/licenses/by-nc/4.0/'}
+        format: PAGE-XML
+        volume:
+            - {count: '120', metric: pages}

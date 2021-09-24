@@ -1,5 +1,5 @@
  ---
- layout: page
+ layout: page  
  title: OCR and Ground Truth Resources
  ---
 
