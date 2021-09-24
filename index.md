@@ -1,7 +1,7 @@
- ---
- layout: page
- title: OCR and Ground Truth Resources
- ---
+---
+layout: page
+title: OCR and Ground Truth Resources
+---
 
 {{ site.data.ocr-gt.description }}
 
