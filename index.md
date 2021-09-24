@@ -1,3 +1,8 @@
+ ---
+ layout: page
+ title: OCR and Ground Truth Resources
+ ---
+
 # OCR and Ground Truth Resources
 
 <!--
