@@ -846,3 +846,16 @@ entries:
         format: PAGE-XML
         volume:
             - {count: '120', metric: pages}
+    -
+        id: '00000067'
+        name: 'NewsEye / READ OCR training dataset'
+        url: 'https://zenodo.org/record/4599624'
+        description: 'Swedish newspaper pages from late 18th-20th century with corrected text'
+        language: 'swe'
+        time: 
+            - {start: '1700', end: '1930'}
+        license:
+            - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/legalcode'}
+        format: PAGE-XML
+        volume:
+            - {count: ' 261', metric: pages}
