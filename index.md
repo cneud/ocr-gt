@@ -2,6 +2,8 @@
 title: "ocr-gt"
 ---
 
+For additional details or contributions, please visit [https://github.com/cneud/ocr-gt](https://github.com/cneud/ocr-gt).
+
 <ul> 
 {% assign entries = site.data.ocr-gt.entries | sort: 'id' %}
 {% for item in entries %}
