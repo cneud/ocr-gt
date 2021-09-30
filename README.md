@@ -1,11 +1,11 @@
 ## OCR & Ground Truth Resources
 
-### → **[online version](https://cneud.github.io/ocr-gt/), [full version](https://github.com/cneud/ocr-gt/blob/master/ocr-gt.yml)**
+### → **[online version](https://cneud.github.io/ocr-gt/), [full version](https://github.com/cneud/ocr-gt/blob/gh-pages/_data/ocr-gt.yml)**
 
 For more/other resources, see also [IAPR-TC11: Datasets](http://datasets.iapr-tc11.org/) and [HTR-United](https://htr-united.github.io/).
 
 ### Contribute
-To add a new resource, please create an [issue](https://github.com/cneud/ocr-gt/issues) or [pull request](https://github.com/cneud/ocr-gt/pulls) with this information:
+To add a new resource, please create an [issue](https://github.com/cneud/ocr-gt/issues) or [pull request](https://github.com/cneud/ocr-gt/pulls) ([yaml](https://github.com/cneud/ocr-gt/blob/gh-pages/_data/ocr-gt.yml)) with this information:
 ```
 name:         short name or abbreviation
 url:          online presence of resource
