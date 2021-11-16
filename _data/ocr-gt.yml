@@ -859,3 +859,16 @@ entries:
         format: PAGE-XML
         volume:
             - {count: ' 261', metric: pages}
+    -
+        id: '00000068'
+        name: 'OCR17+ - Layout analysis and text recognition for 17th c. French prints'
+        url: 'https://github.com/Heresta/OCR17plus'
+        description: 'The repo contains training data and models for layout analysis and text recognition for 17th c. French prints'
+        language: 'fre'
+        time: 
+            - {start: '1624', end: '1697'}
+        license:
+            - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/legalcode'}
+        format: PAGE-XML
+        volume:
+            - {count: ' 737', metric: pages}
