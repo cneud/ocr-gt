@@ -4,7 +4,7 @@ title: "ocr-gt"
 
 For additional details or contributions, please visit [https://github.com/cneud/ocr-gt](https://github.com/cneud/ocr-gt).
 
-<ul> 
+<ul>
 {% assign entries = site.data.ocr-gt.entries | sort: 'id' %}
 {% for item in entries %}
     <li>
@@ -13,4 +13,4 @@ For additional details or contributions, please visit [https://github.com/cneud/
         <a href="{{ item.url }}">{{ item.url }}</a>
     </li>
 {% endfor %}
-</ul> 
+</ul>

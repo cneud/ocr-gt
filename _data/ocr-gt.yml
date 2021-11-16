@@ -7,7 +7,7 @@ entries:
         url: 'https://github.com/jbaiter/archiscribe-corpus'
         description: '4255 lines from 112 19th Century German prints published across 73 years'
         language: 'deu'
-        time: 
+        time:
             - {start: '1800', end: '1897'}
         license:
             - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
@@ -19,11 +19,11 @@ entries:
         name: 'CIS-OCR'
         url: 'https://github.com/cisocrgroup/Resources/tree/master/ocrtestset'
         description: 'PoCoTo example documents with ground truth'
-        language: 
+        language:
             - 'deu'
             - 'lat'
-            - 'ell' 
-        time: 
+            - 'ell'
+        time:
             - {start: '1668', end: '1901'}
         license: unknown
         format: Text
@@ -34,7 +34,7 @@ entries:
         name: 'CLTK'
         url: 'https://github.com/cltk'
         description: 'Corpora from Classical Language Toolkit'
-        language: 
+        language:
             - 'grc'
             - 'lat'
         time: 'unknown'
@@ -47,10 +47,10 @@ entries:
         name: 'DIVA-HisDB'
         url: 'https://diuf.unifr.ch/main/hisdoc/diva-hisdb'
         description: 'DIVA-HisDB collection of three medieval manuscripts (CSG18, CSG863, CB55)'
-        language: 
+        language:
             - 'lat'
             - 'ita'
-        time: 
+        time:
             - {start: '1000', end: '1399'}
         license:
             - {name: 'CC-BY-NC 3.0', url: 'https://creativecommons.org/licenses/by-nc/3.0/'}
@@ -63,7 +63,7 @@ entries:
         url: 'https://github.com/chreul/OCR_Testdata_EarlyPrintedBooks'
         description: '8,800 lines from several early printed books'
         language: 'lat'
-        time: 
+        time:
             - {start: '1476', end: '1572'}
         license:
             - {name: 'CC-BY-NC-SA 4.0', url: 'https://creativecommons.org/licenses/by-nc-sa/4.0/'}
@@ -76,7 +76,7 @@ entries:
         url: 'https://github.com/Anterotesis/historical-texts/tree/master/eebo-tcp'
         description: 'Early English Books Online (EEBO) documents transcribed by TCP'
         language: 'eng'
-        time: 
+        time:
             - {start: '1475', end: '1700'}
         license:
             - {name: 'CC0 1.0', url: 'https://creativecommons.org/publicdomain/zero/1.0/'}
@@ -89,7 +89,7 @@ entries:
         url: 'https://github.com/Anterotesis/historical-texts/tree/master/eebo-tcp'
         description: 'Eighteenth Century Collections Online (ECCO) documents transcribed by TCP'
         language: 'eng'
-        time: 
+        time:
             - {start: '1701', end: '1800'}
         license:
             - {name: 'CC0 1.0', url: 'https://creativecommons.org/publicdomain/zero/1.0/'}
@@ -102,7 +102,7 @@ entries:
         url: 'https://github.com/Early-Modern-OCR/TCP-ECCO-texts'
         description: 'ECCO texts, cleaned up by eMOP'
         language: 'eng'
-        time: 
+        time:
             - {start: '1701', end: '1800'}
         license:
             - {name: 'CC0 1.0', url: 'https://creativecommons.org/publicdomain/zero/1.0/'}
@@ -115,7 +115,7 @@ entries:
         url: 'https://github.com/Anterotesis/historical-texts/tree/master/evans-tcp'
         description: 'Evans Early American Imprints documents transcribed by TCP'
         language: 'eng'
-        time: 
+        time:
             - {start: '1639', end: '1800'}
         license:
             - {name: 'CC0 1.0', url: 'https://creativecommons.org/publicdomain/zero/1.0/'}
@@ -127,10 +127,10 @@ entries:
         name: 'FDHN'
         url: 'https://digi.kansalliskirjasto.fi/opendata/submit?set_language=en'
         description: 'Finnish Digitised Historical Newspapers'
-        language: 
+        language:
             - 'fin'
             - 'swe'
-        time: 
+        time:
             - {start: '1911', end: '1914'}
         license:
             - {name: Terms, url: 'https://digi.kansalliskirjasto.fi/terms'}
@@ -155,7 +155,7 @@ entries:
         url: 'https://doi.org/10.5281/zenodo.1344132'
         description: 'Ground Truth for German Fraktur and Early Modern Latin'
         language: 'deu'
-        time: 
+        time:
             - {start: '1476', end: '1898'}
         license:
             - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
@@ -189,7 +189,7 @@ entries:
         name: 'ENP'
         url: 'http://www.primaresearch.org/datasets/ENP'
         description: 'Historic newspapers from Europeana Newspapers'
-        language: 
+        language:
             - 'nld'
             - 'eng'
             - 'est'
@@ -203,7 +203,7 @@ entries:
             - 'swe'
             - 'ukr'
             - 'yid'
-        time: 
+        time:
             - {start: '1618', end: '1900'}
         license:
             - {name: Terms, url: 'http://www.primaresearch.org/register'}
@@ -227,7 +227,7 @@ entries:
         name: 'OCR_GS_Data'
         url: 'https://github.com/OpenITI/OCR_GS_Data'
         description: 'Double-checked Arabic Gold Standard from OpenITI'
-        language: 
+        language:
             - 'ara'
             - 'fas'
             - 'tur'
@@ -241,7 +241,7 @@ entries:
         url: 'https://ocr-d-repo.scc.kit.edu/api/v1/metastore/bagit'
         description: 'Ground truth data from OCR-D'
         language: 'deu'
-        time: 
+        time:
             - {start: '1506', end: '1900'}
         license:
             - {name: 'CC-BY-SA 4.0', url: 'https://creativecommons.org/licenses/by-sa/4.0/'}
@@ -253,10 +253,10 @@ entries:
         name: 'OCR19thSAC'
         url: 'https://files.ifi.uzh.ch/cl/OCR19thSAC/'
         description: 'Text+Berg digital Swiss Alpine Club yearbooks'
-        language: 
+        language:
             - 'deu'
             - 'fra'
-        time: 
+        time:
             - {start: '1864', end: '1924'}
         license:
             - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
@@ -290,7 +290,7 @@ entries:
         name: 'IMPACT-BHL'
         url: 'https://github.com/impactcentre/groundtruth-bhl'
         description: 'IMPACT: Biodiversity Heritage Library'
-        language: 
+        language:
             - 'eng'
             - 'fra'
             - 'deu'
@@ -352,7 +352,7 @@ entries:
         url: 'http://lab.kb.nl/dataset/ground-truth-impact-project#access'
         description: 'IMPACT: National Library of the Netherlands'
         language: 'nld'
-        time: 
+        time:
             - {start: '1618', end: '1945'}
         license:
             - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
@@ -435,7 +435,7 @@ entries:
         url: 'https://zenodo.org/record/3387369'
         description: 'READ OCR training dataset from Austrian Newspapers'
         language: 'deu'
-        time: 
+        time:
             - {start: '1864', end: '1911'}
         license:
             - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
@@ -448,7 +448,7 @@ entries:
         url: 'https://zenodo.org/record/215383'
         description: '8770 transcribed lines of 18th century handwritten German'
         language: 'deu'
-        time: 
+        time:
             - {start: '1701', end: '1800'}
         license:
             - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
@@ -461,7 +461,7 @@ entries:
         url: 'https://zenodo.org/record/218236'
         description: 'Handwritten Early Modern German Ratsprotokolle'
         language: 'deu'
-        time: 
+        time:
             - {start: '1470', end: '1805'}
         license:
             - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
@@ -474,7 +474,7 @@ entries:
         url: 'https://github.com/impresso/NZZ-black-letter-ground-truth'
         description: 'Neue Zürcher Zeitung black letter period'
         language: 'deu'
-        time: 
+        time:
             - {start: '1780', end: '1946'}
         license:
             - {name: 'CC BY-NC 4.0', url: 'https://creativecommons.org/licenses/by-nc/4.0/'}
@@ -509,7 +509,7 @@ entries:
         url: 'https://github.com/jze/ocropus-model_fraktur'
         description: 'Fraktur model for OCRopus training data'
         language: 'deu'
-        time: 
+        time:
             - {start: '1805', end: '1925'}
         license: unknown
         format: Text
@@ -521,7 +521,7 @@ entries:
         url: 'https://github.com/UB-Mannheim/Fibeln'
         description: 'Primers (19th century)'
         language: 'deu'
-        time: 
+        time:
             - {start: '1860', end: '1898'}
         license:
             - {name: 'CC0 1.0', url: 'https://creativecommons.org/publicdomain/zero/1.0/'}
@@ -534,7 +534,7 @@ entries:
         url: 'https://github.com/UB-Mannheim/Weisthuemer'
         description: 'Jacob Grimm Weisthuemer'
         language: 'deu'
-        time: 
+        time:
             - {start: '1840', end: '1872'}
         license:
             - {name: 'CC0 1.0', url: 'https://creativecommons.org/publicdomain/zero/1.0/'}
@@ -573,14 +573,14 @@ entries:
         license: unknown
         format: Text
         volume:
-            - {count: '5', metric: pages}   
+            - {count: '5', metric: pages}
     -
         id: '00000045'
         name: 'AustrianNewspapers'
         url: 'https://github.com/UB-Mannheim/AustrianNewspapers'
         description: 'Enhancement of ONB_NewsEye by UB Mannheim'
         language: 'deu'
-        time: 
+        time:
             - {start: '1864', end: '1911'}
         license:
             - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
@@ -592,12 +592,12 @@ entries:
         name: 'GBN'
         url: 'https://web.inf.ufpr.br/vri/databases/gbn/'
         description: 'German-Brazilian historical newspapers'
-        language: 
+        language:
             - 'deu'
             - 'por'
-        time: 
+        time:
             - {start: '1863', end: '1940'}
-        license: 
+        license:
             - {name: Terms, url: 'https://web.inf.ufpr.br/vri/databases/gbn/'}
         format: PAGE-XML
         volume:
@@ -607,12 +607,12 @@ entries:
         name: 'Salamanca'
         url: 'https://www.salamanca.school/en/works.html'
         description: 'School of Salamanca works'
-        language: 
+        language:
             - 'lat'
             - 'spa'
-        time: 
+        time:
             - {start: '1501', end: '1700'}
-        license: 
+        license:
             - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
         format: TEI
         volume:
@@ -634,9 +634,9 @@ entries:
         url: 'https://github.com/HTR-United/timeuscorpus'
         description: 'French 18th/19th HTR by the ANR project TIME-US'
         language: 'fra'
-        time: 
+        time:
             - {start: '1858', end: '1878'}
-        license: 
+        license:
             - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
         format: PAGE-XML
         volume:
@@ -647,9 +647,9 @@ entries:
         url: 'https://github.com/HTR-United/tapuscorpus'
         description: 'French typewritten Ground Truth'
         language: 'fra'
-        time: 
+        time:
             - {start: '1900', end: '1999'}
-        license: 
+        license:
             - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
         format: PAGE-XML
         volume:
@@ -660,9 +660,9 @@ entries:
         url: 'https://github.com/HTR-United/dahncorpus'
         description: 'French typewritten Ground Truth'
         language: 'fra'
-        time: 
+        time:
             - {start: '1914', end: '1924'}
-        license: 
+        license:
             - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
         format: PAGE-XML, ALTO
         volume:
@@ -674,7 +674,7 @@ entries:
         description: 'Distorted Document Images dataset'
         language: 'eng'
         time: unknown
-        license: 
+        license:
             - {name: 'MIT', url: 'https://opensource.org/licenses/MIT'}
         format: Pickle
         volume:
@@ -697,7 +697,7 @@ entries:
         description: 'Historical prints from around 1830'
         language: 'deu'
         time: '1830'
-        license: 
+        license:
             - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
         format: PAGE-XML
         volume:
@@ -709,7 +709,7 @@ entries:
         description: 'Horizontal, Multi-Oriented, and Curved Text'
         language: 'eng'
         time: unknown
-        license: 
+        license:
             - {name: 'BSD 3-Clause', url: 'https://opensource.org/licenses/BSD-3-Clause'}
         format: Text
         volume:
@@ -720,7 +720,7 @@ entries:
         url: 'https://doc-analysis.github.io/docbank-page/index.html'
         description: 'Benchmark Dataset for Document Layout Analysis'
         language: 'eng'
-        time: 
+        time:
             - {start: '2014', end: '2018'}
         license: unknown
         format: COCO
@@ -743,9 +743,9 @@ entries:
         url: 'https://zenodo.org/record/4638495'
         description: 'Dutch East-Asia Company documents'
         language: 'nld'
-        time: 
+        time:
             - {start: '1617', end: '1972'}
-        license: 
+        license:
             - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
         format: PAGE-XML
         volume:
@@ -756,9 +756,9 @@ entries:
         url: 'https://fki.tic.heia-fr.ch/databases/iam-handwriting-database'
         description: 'IAM Handwriting Database'
         language: 'eng'
-        time: 
+        time:
             - {start: '1999', end: '2002'}
-        license: 
+        license:
             - {name: 'Terms', url: 'https://fki.tic.heia-fr.ch/register'}
         format: XML+DTD
         volume:
@@ -770,7 +770,7 @@ entries:
         description: 'Historical Japanese Documents with Complex Layouts'
         language: 'jpn'
         time: '1953'
-        license: 
+        license:
             - {name: 'Terms', url: 'https://forms.gle/9BYYgo9bAjLnq7RQA'}
         format: COCO
         volume:
@@ -782,7 +782,7 @@ entries:
         description: 'A realistic contemporary document dataset'
         language: 'jpn'
         time: '1953'
-        license: 
+        license:
             - {name: 'Terms', url: 'https://www.primaresearch.org/register'}
         format: PAGE-XML
         volume:
@@ -806,7 +806,7 @@ entries:
         description: 'Database for typewritten emphasis (bold, italic, regular)'
         language: 'fra'
         time: unkown
-        license: 
+        license:
              - {name: 'MIT', url: 'https://opensource.org/licenses/MIT'}
         format: TSV
         volume:
@@ -818,7 +818,7 @@ entries:
         description: 'Intelligent Historical Document Image Analytics initiative dataset'
         language: 'inc'
         time: unknown
-        license: 
+        license:
              - {name: 'Terms', url: 'https://forms.gle/yjPyug3zqVumacL37'}
         format: unknown
         volume: unknown
@@ -839,7 +839,7 @@ entries:
         url: 'https://github.com/UB-Mannheim/NZZ-black-letter-ground-truth/tree/gt-fixes'
         description: 'Fork of 00000036 incl. GT fixes by UB Mannheim)'
         language: 'deu'
-        time: 
+        time:
             - {start: '1780', end: '1946'}
         license:
             - {name: 'CC BY-NC 4.0', url: 'https://creativecommons.org/licenses/by-nc/4.0/'}
@@ -852,7 +852,7 @@ entries:
         url: 'https://zenodo.org/record/4599624'
         description: 'Swedish newspaper pages from late 18th-20th century with corrected text'
         language: 'swe'
-        time: 
+        time:
             - {start: '1700', end: '1930'}
         license:
             - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/legalcode'}
@@ -865,7 +865,7 @@ entries:
         url: 'https://github.com/Heresta/OCR17plus'
         description: 'The repo contains training data and models for layout analysis and text recognition for 17th c. French prints'
         language: 'fre'
-        time: 
+        time:
             - {start: '1624', end: '1697'}
         license:
             - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/legalcode'}
