@@ -872,3 +872,16 @@ entries:
         format: PAGE-XML
         volume:
             - {count: ' 737', metric: pages}
+    -
+        id: '00000069'
+        name: 'CarolineMinuscule'
+        url: 'https://github.com/rescribe/carolineminuscule-groundtruth'
+        description: 'Caroline Minuscule training pool of around 70 manuscripts'
+        language: 'lat'
+        time:
+            - {start: '790', end: '1199'}
+        license:
+            - {name: 'CC-BY-NC-SA 4.0', url: 'http://creativecommons.org/licenses/by-nc-sa/4.0/'}
+        format: Text
+        volume:
+            - {count: '419', metric: lines}
