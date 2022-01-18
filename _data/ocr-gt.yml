@@ -898,4 +898,3 @@ entries:
         format: PAGE-XML, ALTO, TEI, TXT, PDF, DOCX
         volume:      	
             - {count: '207', metric: pages}
-            
