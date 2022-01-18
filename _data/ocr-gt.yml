@@ -885,3 +885,16 @@ entries:
         format: Text
         volume:
             - {count: '419', metric: lines}
+    -
+        id: '00000070'			
+        name: 'Fraktur UB Tübingen'
+        url: 'https://github.com/ubtue/gt-fraktur'
+        description: 'Fraktur/Gothic prints from the 19th Century'
+        language: 'deu'
+        time:         
+            - {start: '1830', end: '1875'}
+        license:      
+            - {name: 'CC0 1.0', url: 'https://creativecommons.org/publicdomain/zero/1.0/'}
+        format: PAGE-XML, ALTO, TEI, TXT, PDF, DOCX
+        volume:      	
+            - {count: '207', metric: pages}
