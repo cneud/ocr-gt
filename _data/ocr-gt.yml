@@ -895,6 +895,12 @@ entries:
             - {start: '1830', end: '1875'}
         license:      
             - {name: 'CC0 1.0', url: 'https://creativecommons.org/publicdomain/zero/1.0/'}
-        format: PAGE-XML, ALTO, TEI, TXT, PDF, DOCX
+        format: 
+            - PAGE-XML
+            - ALTO
+            - TEI
+            - Text
+            - PDF 
+            - DOCX
         volume:      	
             - {count: '207', metric: pages}
