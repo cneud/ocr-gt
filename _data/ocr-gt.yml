@@ -858,7 +858,7 @@ entries:
             - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/legalcode'}
         format: PAGE-XML
         volume:
-            - {count: ' 261', metric: pages}
+            - {count: '261', metric: pages}
     -
         id: '00000068'
         name: 'OCR17+ - Layout analysis and text recognition for 17th c. French prints'
@@ -871,7 +871,7 @@ entries:
             - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/legalcode'}
         format: PAGE-XML
         volume:
-            - {count: ' 737', metric: pages}
+            - {count: '737', metric: pages}
     -
         id: '00000069'
         name: 'CarolineMinuscule'
@@ -904,3 +904,15 @@ entries:
             - DOCX
         volume:      	
             - {count: '207', metric: pages}
+    -
+        id: '00000071'			
+        name: 'ULB Sachsen-Anhalt newspapers'
+        url: 'https://github.com/ulb-sachsen-anhalt/ulb-zeitungsprojekt-hp1'
+        description: 'Training data of the DFG-Project "Zeitungsdigitalisierung Hauptphase I"'
+        language: 'deu'
+        time:         
+            - {start: '1870', end: '1945'}
+        license: unknown
+        format: Text
+        volume:      	
+            - {count: '16069', metric: lines}
