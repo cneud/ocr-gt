@@ -277,10 +277,10 @@ entries:
     -
         id: '00000021'
         name: 'CDIP'
-        url: 'https://ir.nist.gov/cdip/README.txt'
-        description: 'IIT Complex Document Information Processing Test Collection'
+        url: 'https://data.nist.gov/od/id/mds2-2531'
+        description: 'IIT Complex Document Information Processing Dataset'
         language: 'eng'
-        time: '2006'
+        time: '1990'
         license: unknown
         format: Text
         volume:
